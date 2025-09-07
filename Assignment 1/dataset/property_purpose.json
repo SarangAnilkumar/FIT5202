@@ -1,0 +1,3463 @@
+{
+"purpose_id, primary_purpose\n": [
+	{
+		"purpose_id" : 1,
+		"primary_purpose" : ""
+	},
+	{
+		"purpose_id" : 16,
+		"primary_purpose" : "0FFICE"
+	},
+	{
+		"purpose_id" : 29,
+		"primary_purpose" : "10 FLATS"
+	},
+	{
+		"purpose_id" : 31,
+		"primary_purpose" : "10 UNITS"
+	},
+	{
+		"purpose_id" : 115,
+		"primary_purpose" : "2"
+	},
+	{
+		"purpose_id" : 159,
+		"primary_purpose" : "2 CAR SPACES"
+	},
+	{
+		"purpose_id" : 167,
+		"primary_purpose" : "2 FLATS"
+	},
+	{
+		"purpose_id" : 190,
+		"primary_purpose" : "2 SHEDS"
+	},
+	{
+		"purpose_id" : 193,
+		"primary_purpose" : "2 SHOPS"
+	},
+	{
+		"purpose_id" : 229,
+		"primary_purpose" : "2 UNITS"
+	},
+	{
+		"purpose_id" : 273,
+		"primary_purpose" : "3 FLATS"
+	},
+	{
+		"purpose_id" : 287,
+		"primary_purpose" : "3 UNITS"
+	},
+	{
+		"purpose_id" : 312,
+		"primary_purpose" : "4 FLATS"
+	},
+	{
+		"purpose_id" : 323,
+		"primary_purpose" : "4 UNITS"
+	},
+	{
+		"purpose_id" : 361,
+		"primary_purpose" : "6 FLATS"
+	},
+	{
+		"purpose_id" : 364,
+		"primary_purpose" : "6MOTEL UNITS"
+	},
+	{
+		"purpose_id" : 369,
+		"primary_purpose" : "6 UNITS"
+	},
+	{
+		"purpose_id" : 389,
+		"primary_purpose" : "8 MOTEL UNITS"
+	},
+	{
+		"purpose_id" : 406,
+		"primary_purpose" : "ABATTOIR"
+	},
+	{
+		"purpose_id" : 415,
+		"primary_purpose" : "ACCOMMODATION"
+	},
+	{
+		"purpose_id" : 449,
+		"primary_purpose" : "AGED CARE"
+	},
+	{
+		"purpose_id" : 455,
+		"primary_purpose" : "AGED CARE FAC"
+	},
+	{
+		"purpose_id" : 457,
+		"primary_purpose" : "AGED CARE FACI"
+	},
+	{
+		"purpose_id" : 474,
+		"primary_purpose" : "AGRICULTURAL"
+	},
+	{
+		"purpose_id" : 487,
+		"primary_purpose" : "AIRPORT"
+	},
+	{
+		"purpose_id" : 489,
+		"primary_purpose" : "AIRPORT HANGAR"
+	},
+	{
+		"purpose_id" : 515,
+		"primary_purpose" : "AMUSEMENT PAR"
+	},
+	{
+		"purpose_id" : 528,
+		"primary_purpose" : "APARTMENT"
+	},
+	{
+		"purpose_id" : 537,
+		"primary_purpose" : "APARTMENTS"
+	},
+	{
+		"purpose_id" : 547,
+		"primary_purpose" : "APT"
+	},
+	{
+		"purpose_id" : 611,
+		"primary_purpose" : "BACKPACKERS"
+	},
+	{
+		"purpose_id" : 615,
+		"primary_purpose" : "BAKERY"
+	},
+	{
+		"purpose_id" : 627,
+		"primary_purpose" : "BANK"
+	},
+	{
+		"purpose_id" : 635,
+		"primary_purpose" : "BANK PREMISES"
+	},
+	{
+		"purpose_id" : 643,
+		"primary_purpose" : "BARN"
+	},
+	{
+		"purpose_id" : 705,
+		"primary_purpose" : "BDY ADJ SALE PT LOT "
+	},
+	{
+		"purpose_id" : 710,
+		"primary_purpose" : "BDY ADJUSTMENT SALE "
+	},
+	{
+		"purpose_id" : 720,
+		"primary_purpose" : "BED & BREAKFA"
+	},
+	{
+		"purpose_id" : 740,
+		"primary_purpose" : "BERTH"
+	},
+	{
+		"purpose_id" : 755,
+		"primary_purpose" : "BLDG"
+	},
+	{
+		"purpose_id" : 760,
+		"primary_purpose" : "BLDGS"
+	},
+	{
+		"purpose_id" : 789,
+		"primary_purpose" : "BLOCK OF FLAT"
+	},
+	{
+		"purpose_id" : 791,
+		"primary_purpose" : "BLOCK OF FLATS"
+	},
+	{
+		"purpose_id" : 797,
+		"primary_purpose" : "BLOCK OF UNIT"
+	},
+	{
+		"purpose_id" : 799,
+		"primary_purpose" : "BLOCK OF UNITS"
+	},
+	{
+		"purpose_id" : 801,
+		"primary_purpose" : "BLOCK UNITS"
+	},
+	{
+		"purpose_id" : 809,
+		"primary_purpose" : "BOARDING HOUS"
+	},
+	{
+		"purpose_id" : 811,
+		"primary_purpose" : "BOARDING HOUSE"
+	},
+	{
+		"purpose_id" : 825,
+		"primary_purpose" : "BOAT MOORING"
+	},
+	{
+		"purpose_id" : 830,
+		"primary_purpose" : "BOAT SHED"
+	},
+	{
+		"purpose_id" : 831,
+		"primary_purpose" : "BOATSHED"
+	},
+	{
+		"purpose_id" : 840,
+		"primary_purpose" : "BORE SITE"
+	},
+	{
+		"purpose_id" : 851,
+		"primary_purpose" : "BOUNDARY ADJU"
+	},
+	{
+		"purpose_id" : 852,
+		"primary_purpose" : "BOUNDARY ADJUS"
+	},
+	{
+		"purpose_id" : 874,
+		"primary_purpose" : "BOWLING CLUB"
+	},
+	{
+		"purpose_id" : 893,
+		"primary_purpose" : "BRICK FACTORY"
+	},
+	{
+		"purpose_id" : 915,
+		"primary_purpose" : "BUILDING"
+	},
+	{
+		"purpose_id" : 918,
+		"primary_purpose" : "BUILDING BLOC"
+	},
+	{
+		"purpose_id" : 924,
+		"primary_purpose" : "BUILDINGS"
+	},
+	{
+		"purpose_id" : 953,
+		"primary_purpose" : "BUS DEPOT"
+	},
+	{
+		"purpose_id" : 973,
+		"primary_purpose" : "BUSINESS"
+	},
+	{
+		"purpose_id" : 985,
+		"primary_purpose" : "BUSINESS PREM"
+	},
+	{
+		"purpose_id" : 995,
+		"primary_purpose" : "BUSINESS RP"
+	},
+	{
+		"purpose_id" : 1005,
+		"primary_purpose" : "BUSINESS UNIT"
+	},
+	{
+		"purpose_id" : 1031,
+		"primary_purpose" : "CABIN"
+	},
+	{
+		"purpose_id" : 1044,
+		"primary_purpose" : "CAFE"
+	},
+	{
+		"purpose_id" : 1073,
+		"primary_purpose" : "CAMP"
+	},
+	{
+		"purpose_id" : 1082,
+		"primary_purpose" : "CANE FARM"
+	},
+	{
+		"purpose_id" : 1099,
+		"primary_purpose" : "CARAVAN PARK"
+	},
+	{
+		"purpose_id" : 1106,
+		"primary_purpose" : "CARAVAN PK"
+	},
+	{
+		"purpose_id" : 1116,
+		"primary_purpose" : "CAR DEALERSHI"
+	},
+	{
+		"purpose_id" : 1135,
+		"primary_purpose" : "CAR PARK"
+	},
+	{
+		"purpose_id" : 1137,
+		"primary_purpose" : "CARPARK"
+	},
+	{
+		"purpose_id" : 1141,
+		"primary_purpose" : "CAR PARKING"
+	},
+	{
+		"purpose_id" : 1150,
+		"primary_purpose" : "CAR PARKS"
+	},
+	{
+		"purpose_id" : 1151,
+		"primary_purpose" : "CARPARKS"
+	},
+	{
+		"purpose_id" : 1162,
+		"primary_purpose" : "CARPORT"
+	},
+	{
+		"purpose_id" : 1185,
+		"primary_purpose" : "CAR SPACE"
+	},
+	{
+		"purpose_id" : 1187,
+		"primary_purpose" : "CARSPACE"
+	},
+	{
+		"purpose_id" : 1188,
+		"primary_purpose" : "CARSPACE "
+	},
+	{
+		"purpose_id" : 1201,
+		"primary_purpose" : "CAR SPACES"
+	},
+	{
+		"purpose_id" : 1203,
+		"primary_purpose" : "CARSPACES"
+	},
+	{
+		"purpose_id" : 1212,
+		"primary_purpose" : "CARSPACES & S"
+	},
+	{
+		"purpose_id" : 1213,
+		"primary_purpose" : "CARSPACE & ST"
+	},
+	{
+		"purpose_id" : 1214,
+		"primary_purpose" : "CAR SPACE\/STO"
+	},
+	{
+		"purpose_id" : 1216,
+		"primary_purpose" : "CARSPACE&STOR"
+	},
+	{
+		"purpose_id" : 1218,
+		"primary_purpose" : "CARSPACE\/STOR"
+	},
+	{
+		"purpose_id" : 1221,
+		"primary_purpose" : "CAR SPACES X11"
+	},
+	{
+		"purpose_id" : 1238,
+		"primary_purpose" : "CAR WASH"
+	},
+	{
+		"purpose_id" : 1240,
+		"primary_purpose" : "CARWASH"
+	},
+	{
+		"purpose_id" : 1249,
+		"primary_purpose" : "CAR YARD"
+	},
+	{
+		"purpose_id" : 1252,
+		"primary_purpose" : "CARYARD"
+	},
+	{
+		"purpose_id" : 1286,
+		"primary_purpose" : "CATTLE YARDS"
+	},
+	{
+		"purpose_id" : 1318,
+		"primary_purpose" : "CENTRE"
+	},
+	{
+		"purpose_id" : 1344,
+		"primary_purpose" : "CHILD CARE"
+	},
+	{
+		"purpose_id" : 1346,
+		"primary_purpose" : "CHILDCARE"
+	},
+	{
+		"purpose_id" : 1348,
+		"primary_purpose" : "CHILD CARE CE"
+	},
+	{
+		"purpose_id" : 1351,
+		"primary_purpose" : "CHILD CARE CEN"
+	},
+	{
+		"purpose_id" : 1352,
+		"primary_purpose" : "CHILDCARE CEN"
+	},
+	{
+		"purpose_id" : 1354,
+		"primary_purpose" : "CHILDCARE CENT"
+	},
+	{
+		"purpose_id" : 1355,
+		"primary_purpose" : "CHILDCARECENT"
+	},
+	{
+		"purpose_id" : 1361,
+		"primary_purpose" : "CHILD CARE CT"
+	},
+	{
+		"purpose_id" : 1364,
+		"primary_purpose" : "CHILDCARE CTR"
+	},
+	{
+		"purpose_id" : 1378,
+		"primary_purpose" : "CHURCH"
+	},
+	{
+		"purpose_id" : 1385,
+		"primary_purpose" : "CHURCH BLDG"
+	},
+	{
+		"purpose_id" : 1389,
+		"primary_purpose" : "CHURCH BUILDI"
+	},
+	{
+		"purpose_id" : 1398,
+		"primary_purpose" : "CHURCH & HALL"
+	},
+	{
+		"purpose_id" : 1399,
+		"primary_purpose" : "CHURCH HALL"
+	},
+	{
+		"purpose_id" : 1429,
+		"primary_purpose" : "CINEMA"
+	},
+	{
+		"purpose_id" : 1441,
+		"primary_purpose" : "CLINIC"
+	},
+	{
+		"purpose_id" : 1450,
+		"primary_purpose" : "CLOSED RD"
+	},
+	{
+		"purpose_id" : 1461,
+		"primary_purpose" : "CLOSED ROAD"
+	},
+	{
+		"purpose_id" : 1471,
+		"primary_purpose" : "CLOSED ROADS"
+	},
+	{
+		"purpose_id" : 1480,
+		"primary_purpose" : "CLUB"
+	},
+	{
+		"purpose_id" : 1486,
+		"primary_purpose" : "CLUB HOUSE"
+	},
+	{
+		"purpose_id" : 1487,
+		"primary_purpose" : "CLUBHOUSE"
+	},
+	{
+		"purpose_id" : 1497,
+		"primary_purpose" : "CLUB PREMISES"
+	},
+	{
+		"purpose_id" : 1532,
+		"primary_purpose" : "COAL MINE"
+	},
+	{
+		"purpose_id" : 1533,
+		"primary_purpose" : "COALMINE"
+	},
+	{
+		"purpose_id" : 1547,
+		"primary_purpose" : "COLLEGE"
+	},
+	{
+		"purpose_id" : 1574,
+		"primary_purpose" : "COMEMRCIAL"
+	},
+	{
+		"purpose_id" : 1576,
+		"primary_purpose" : "COMEMRCIAL BL"
+	},
+	{
+		"purpose_id" : 1581,
+		"primary_purpose" : "COMEMRCIAL PR"
+	},
+	{
+		"purpose_id" : 1589,
+		"primary_purpose" : "COMEMRCIAL UN"
+	},
+	{
+		"purpose_id" : 1594,
+		"primary_purpose" : "COMERCIAL"
+	},
+	{
+		"purpose_id" : 1616,
+		"primary_purpose" : "COM\/INDUST"
+	},
+	{
+		"purpose_id" : 1621,
+		"primary_purpose" : "COMM"
+	},
+	{
+		"purpose_id" : 1630,
+		"primary_purpose" : "COMM BLDG"
+	},
+	{
+		"purpose_id" : 1657,
+		"primary_purpose" : "COMMECIAL"
+	},
+	{
+		"purpose_id" : 1681,
+		"primary_purpose" : "COMMERCAIL"
+	},
+	{
+		"purpose_id" : 1695,
+		"primary_purpose" : "COMMERCIA"
+	},
+	{
+		"purpose_id" : 1704,
+		"primary_purpose" : "COMMERCIAL"
+	},
+	{
+		"purpose_id" : 1705,
+		"primary_purpose" : "COMMERCIAL "
+	},
+	{
+		"purpose_id" : 1706,
+		"primary_purpose" : "COMMERCIAL &"
+	},
+	{
+		"purpose_id" : 1728,
+		"primary_purpose" : "COMMERCIAL BA"
+	},
+	{
+		"purpose_id" : 1737,
+		"primary_purpose" : "COMMERCIAL BL"
+	},
+	{
+		"purpose_id" : 1739,
+		"primary_purpose" : "COMMERCIAL BLD"
+	},
+	{
+		"purpose_id" : 1743,
+		"primary_purpose" : "COMMERCIAL BU"
+	},
+	{
+		"purpose_id" : 1745,
+		"primary_purpose" : "COMMERCIAL BUI"
+	},
+	{
+		"purpose_id" : 1746,
+		"primary_purpose" : "COMMERCIALBUI"
+	},
+	{
+		"purpose_id" : 1760,
+		"primary_purpose" : "COMMERCIAL CO"
+	},
+	{
+		"purpose_id" : 1769,
+		"primary_purpose" : "COMMERCIAL FA"
+	},
+	{
+		"purpose_id" : 1771,
+		"primary_purpose" : "COMMERCIAL FAC"
+	},
+	{
+		"purpose_id" : 1778,
+		"primary_purpose" : "COMMERCIAL HO"
+	},
+	{
+		"purpose_id" : 1783,
+		"primary_purpose" : "COMMERCIAL IN"
+	},
+	{
+		"purpose_id" : 1784,
+		"primary_purpose" : "COMMERCIAL\/IN"
+	},
+	{
+		"purpose_id" : 1787,
+		"primary_purpose" : "COMMERCIAL\/IND"
+	},
+	{
+		"purpose_id" : 1792,
+		"primary_purpose" : "COMMERCIAL LA"
+	},
+	{
+		"purpose_id" : 1793,
+		"primary_purpose" : "COMMERCIAL\/LA"
+	},
+	{
+		"purpose_id" : 1796,
+		"primary_purpose" : "COMMERCIAL LO"
+	},
+	{
+		"purpose_id" : 1797,
+		"primary_purpose" : "COMMERCIAL LOT"
+	},
+	{
+		"purpose_id" : 1819,
+		"primary_purpose" : "COMMERCIAL OF"
+	},
+	{
+		"purpose_id" : 1821,
+		"primary_purpose" : "COMMERCIAL\/OF"
+	},
+	{
+		"purpose_id" : 1822,
+		"primary_purpose" : "COMMERCIAL OFF"
+	},
+	{
+		"purpose_id" : 1823,
+		"primary_purpose" : "COMMERCIALOFF"
+	},
+	{
+		"purpose_id" : 1830,
+		"primary_purpose" : "COMMERCIAL PP"
+	},
+	{
+		"purpose_id" : 1832,
+		"primary_purpose" : "COMMERCIAL PR"
+	},
+	{
+		"purpose_id" : 1833,
+		"primary_purpose" : "COMMERCIAL PR "
+	},
+	{
+		"purpose_id" : 1835,
+		"primary_purpose" : "COMMERCIAL PRE"
+	},
+	{
+		"purpose_id" : 1836,
+		"primary_purpose" : "COMMERCIALPRE"
+	},
+	{
+		"purpose_id" : 1840,
+		"primary_purpose" : "COMMERCIAL PRO"
+	},
+	{
+		"purpose_id" : 1856,
+		"primary_purpose" : "COMMERCIAL & R"
+	},
+	{
+		"purpose_id" : 1861,
+		"primary_purpose" : "COMMERCIAL RE"
+	},
+	{
+		"purpose_id" : 1865,
+		"primary_purpose" : "COMMERCIAL\/RE"
+	},
+	{
+		"purpose_id" : 1870,
+		"primary_purpose" : "COMMERCIAL\/RES"
+	},
+	{
+		"purpose_id" : 1887,
+		"primary_purpose" : "COMMERCIAL SH"
+	},
+	{
+		"purpose_id" : 1890,
+		"primary_purpose" : "COMMERCIAL\/SH"
+	},
+	{
+		"purpose_id" : 1891,
+		"primary_purpose" : "COMMERCIAL SHE"
+	},
+	{
+		"purpose_id" : 1892,
+		"primary_purpose" : "COMMERCIALSHED"
+	},
+	{
+		"purpose_id" : 1893,
+		"primary_purpose" : "COMMERCIAL SHO"
+	},
+	{
+		"purpose_id" : 1895,
+		"primary_purpose" : "COMMERCIALSHOP"
+	},
+	{
+		"purpose_id" : 1897,
+		"primary_purpose" : "COMMERCIAL SI"
+	},
+	{
+		"purpose_id" : 1902,
+		"primary_purpose" : "COMMERCIAL SP"
+	},
+	{
+		"purpose_id" : 1904,
+		"primary_purpose" : "COMMERCIAL ST"
+	},
+	{
+		"purpose_id" : 1908,
+		"primary_purpose" : "COMMERCIAL STR"
+	},
+	{
+		"purpose_id" : 1910,
+		"primary_purpose" : "COMMERCIAL SU"
+	},
+	{
+		"purpose_id" : 1915,
+		"primary_purpose" : "COMMERCIAL SUI"
+	},
+	{
+		"purpose_id" : 1925,
+		"primary_purpose" : "COMMERCIAL UN"
+	},
+	{
+		"purpose_id" : 1926,
+		"primary_purpose" : "COMMERCIAL UN "
+	},
+	{
+		"purpose_id" : 1927,
+		"primary_purpose" : "COMMERCIAL\/UN"
+	},
+	{
+		"purpose_id" : 1928,
+		"primary_purpose" : "COMMERCIAL UNI"
+	},
+	{
+		"purpose_id" : 1929,
+		"primary_purpose" : "COMMERCIALUNI"
+	},
+	{
+		"purpose_id" : 1931,
+		"primary_purpose" : "COMMERCIALUNIT"
+	},
+	{
+		"purpose_id" : 1933,
+		"primary_purpose" : "COMMERCIAL US"
+	},
+	{
+		"purpose_id" : 1938,
+		"primary_purpose" : "COMMERCIAL WA"
+	},
+	{
+		"purpose_id" : 1990,
+		"primary_purpose" : "COMMERIAL"
+	},
+	{
+		"purpose_id" : 1996,
+		"primary_purpose" : "COMMERICAL"
+	},
+	{
+		"purpose_id" : 2000,
+		"primary_purpose" : "COMMERICAL\/CA"
+	},
+	{
+		"purpose_id" : 2006,
+		"primary_purpose" : "COMMERICAL OF"
+	},
+	{
+		"purpose_id" : 2008,
+		"primary_purpose" : "COMMERICAL PR"
+	},
+	{
+		"purpose_id" : 2011,
+		"primary_purpose" : "COMMERICAL\/RES"
+	},
+	{
+		"purpose_id" : 2018,
+		"primary_purpose" : "COMMERICAL UN"
+	},
+	{
+		"purpose_id" : 2019,
+		"primary_purpose" : "COMMERICAL UNI"
+	},
+	{
+		"purpose_id" : 2023,
+		"primary_purpose" : "COMMERICIAL"
+	},
+	{
+		"purpose_id" : 2062,
+		"primary_purpose" : "COMML STRATA"
+	},
+	{
+		"purpose_id" : 2065,
+		"primary_purpose" : "COMMMERCIAL"
+	},
+	{
+		"purpose_id" : 2074,
+		"primary_purpose" : "COMM OFFICE"
+	},
+	{
+		"purpose_id" : 2077,
+		"primary_purpose" : "COMM. OFFICE"
+	},
+	{
+		"purpose_id" : 2087,
+		"primary_purpose" : "COMMON PROPER"
+	},
+	{
+		"purpose_id" : 2101,
+		"primary_purpose" : "COMM PREMISES"
+	},
+	{
+		"purpose_id" : 2116,
+		"primary_purpose" : "COMM\/RES"
+	},
+	{
+		"purpose_id" : 2126,
+		"primary_purpose" : "COMM\/RESID"
+	},
+	{
+		"purpose_id" : 2128,
+		"primary_purpose" : "COMM\/RESIDEN"
+	},
+	{
+		"purpose_id" : 2131,
+		"primary_purpose" : "COMM\/RESIDENT"
+	},
+	{
+		"purpose_id" : 2149,
+		"primary_purpose" : "COMM STE"
+	},
+	{
+		"purpose_id" : 2152,
+		"primary_purpose" : "COMM STRATA"
+	},
+	{
+		"purpose_id" : 2160,
+		"primary_purpose" : "COMM SUITE"
+	},
+	{
+		"purpose_id" : 2175,
+		"primary_purpose" : "COMM UNIT"
+	},
+	{
+		"purpose_id" : 2178,
+		"primary_purpose" : "COMM. UNIT"
+	},
+	{
+		"purpose_id" : 2179,
+		"primary_purpose" : "COMM.UNIT"
+	},
+	{
+		"purpose_id" : 2183,
+		"primary_purpose" : "COMM UNIT\/CAR"
+	},
+	{
+		"purpose_id" : 2184,
+		"primary_purpose" : "COMM UNITS"
+	},
+	{
+		"purpose_id" : 2185,
+		"primary_purpose" : "COMM. UNITS"
+	},
+	{
+		"purpose_id" : 2192,
+		"primary_purpose" : "COMMUNITY HAL"
+	},
+	{
+		"purpose_id" : 2193,
+		"primary_purpose" : "COMMUNITY HALL"
+	},
+	{
+		"purpose_id" : 2241,
+		"primary_purpose" : "COM UNIT"
+	},
+	{
+		"purpose_id" : 2260,
+		"primary_purpose" : "CONCRETE PLAN"
+	},
+	{
+		"purpose_id" : 2278,
+		"primary_purpose" : "CONMERCIAL"
+	},
+	{
+		"purpose_id" : 2290,
+		"primary_purpose" : "CONSULTING RO"
+	},
+	{
+		"purpose_id" : 2298,
+		"primary_purpose" : "CONVENT"
+	},
+	{
+		"purpose_id" : 2333,
+		"primary_purpose" : "COTTAGE"
+	},
+	{
+		"purpose_id" : 2343,
+		"primary_purpose" : "COTTAGES & FAR"
+	},
+	{
+		"purpose_id" : 2385,
+		"primary_purpose" : "CROWN ROAD"
+	},
+	{
+		"purpose_id" : 2407,
+		"primary_purpose" : "CYCLEWAY"
+	},
+	{
+		"purpose_id" : 2414,
+		"primary_purpose" : "DAIRY FARM"
+	},
+	{
+		"purpose_id" : 2435,
+		"primary_purpose" : "DAY CARE CENT"
+	},
+	{
+		"purpose_id" : 2455,
+		"primary_purpose" : "DEFENCE LANDS"
+	},
+	{
+		"purpose_id" : 2475,
+		"primary_purpose" : "DENTAL SURGER"
+	},
+	{
+		"purpose_id" : 2477,
+		"primary_purpose" : "DENTAL SURGERY"
+	},
+	{
+		"purpose_id" : 2483,
+		"primary_purpose" : "DENTIST SURGE"
+	},
+	{
+		"purpose_id" : 2486,
+		"primary_purpose" : "DEPOT"
+	},
+	{
+		"purpose_id" : 2516,
+		"primary_purpose" : "DEVELOPMENT"
+	},
+	{
+		"purpose_id" : 2517,
+		"primary_purpose" : "DEVELOPMENT S"
+	},
+	{
+		"purpose_id" : 2541,
+		"primary_purpose" : "DISPLAY HOME"
+	},
+	{
+		"purpose_id" : 2573,
+		"primary_purpose" : "DOCTOR'S SURG"
+	},
+	{
+		"purpose_id" : 2577,
+		"primary_purpose" : "DOCTORS SURGE"
+	},
+	{
+		"purpose_id" : 2596,
+		"primary_purpose" : "DRAINAGE RESE"
+	},
+	{
+		"purpose_id" : 2612,
+		"primary_purpose" : "DR SURGERY"
+	},
+	{
+		"purpose_id" : 2629,
+		"primary_purpose" : "DUPLEX"
+	},
+	{
+		"purpose_id" : 2630,
+		"primary_purpose" : "DUPLEX "
+	},
+	{
+		"purpose_id" : 2654,
+		"primary_purpose" : "DWELLING"
+	},
+	{
+		"purpose_id" : 2713,
+		"primary_purpose" : "ERCIAL"
+	},
+	{
+		"purpose_id" : 2722,
+		"primary_purpose" : "EXCHANGE"
+	},
+	{
+		"purpose_id" : 2765,
+		"primary_purpose" : "FACTORIES"
+	},
+	{
+		"purpose_id" : 2778,
+		"primary_purpose" : "FACTORY"
+	},
+	{
+		"purpose_id" : 2779,
+		"primary_purpose" : "FACTORY "
+	},
+	{
+		"purpose_id" : 2782,
+		"primary_purpose" : "FACTORY & 9 C"
+	},
+	{
+		"purpose_id" : 2787,
+		"primary_purpose" : "FACTORY BAY"
+	},
+	{
+		"purpose_id" : 2790,
+		"primary_purpose" : "FACTORY BAYS"
+	},
+	{
+		"purpose_id" : 2793,
+		"primary_purpose" : "FACTORY BLD"
+	},
+	{
+		"purpose_id" : 2829,
+		"primary_purpose" : "FACTORY & OFF"
+	},
+	{
+		"purpose_id" : 2836,
+		"primary_purpose" : "FACTORY\/OFFIC"
+	},
+	{
+		"purpose_id" : 2839,
+		"primary_purpose" : "FACTORY\/OFFICE"
+	},
+	{
+		"purpose_id" : 2843,
+		"primary_purpose" : "FACTORY PREMI"
+	},
+	{
+		"purpose_id" : 2849,
+		"primary_purpose" : "FACTORY SHED"
+	},
+	{
+		"purpose_id" : 2876,
+		"primary_purpose" : "FACTORY UNIT"
+	},
+	{
+		"purpose_id" : 2877,
+		"primary_purpose" : "FACTORY UNIT "
+	},
+	{
+		"purpose_id" : 2880,
+		"primary_purpose" : "FACTORYUNIT"
+	},
+	{
+		"purpose_id" : 2883,
+		"primary_purpose" : "FACTORY UNITS"
+	},
+	{
+		"purpose_id" : 2893,
+		"primary_purpose" : "FACTORY WAREH"
+	},
+	{
+		"purpose_id" : 2894,
+		"primary_purpose" : "FACTORY\/WAREH"
+	},
+	{
+		"purpose_id" : 2915,
+		"primary_purpose" : "FAC. UNIT & CS"
+	},
+	{
+		"purpose_id" : 2941,
+		"primary_purpose" : "FARM"
+	},
+	{
+		"purpose_id" : 2942,
+		"primary_purpose" : "FARM "
+	},
+	{
+		"purpose_id" : 3038,
+		"primary_purpose" : "FARM FORESTRY"
+	},
+	{
+		"purpose_id" : 3055,
+		"primary_purpose" : "FARM & HOUSE"
+	},
+	{
+		"purpose_id" : 3057,
+		"primary_purpose" : "FARM HOUSE"
+	},
+	{
+		"purpose_id" : 3063,
+		"primary_purpose" : "FARM\/HOUSE"
+	},
+	{
+		"purpose_id" : 3082,
+		"primary_purpose" : "FARMING"
+	},
+	{
+		"purpose_id" : 3091,
+		"primary_purpose" : "FARMING LAND"
+	},
+	{
+		"purpose_id" : 3097,
+		"primary_purpose" : "FARMING LANDS"
+	},
+	{
+		"purpose_id" : 3103,
+		"primary_purpose" : "FARMING PROPE"
+	},
+	{
+		"purpose_id" : 3110,
+		"primary_purpose" : "FARMIRURAL"
+	},
+	{
+		"purpose_id" : 3117,
+		"primary_purpose" : "FARM LAND"
+	},
+	{
+		"purpose_id" : 3122,
+		"primary_purpose" : "FARMLAND"
+	},
+	{
+		"purpose_id" : 3138,
+		"primary_purpose" : "FARMLAND\/HOUSE"
+	},
+	{
+		"purpose_id" : 3156,
+		"primary_purpose" : "FARM LANDS"
+	},
+	{
+		"purpose_id" : 3158,
+		"primary_purpose" : "FARMLANDS"
+	},
+	{
+		"purpose_id" : 3179,
+		"primary_purpose" : "FARMLET"
+	},
+	{
+		"purpose_id" : 3290,
+		"primary_purpose" : "FARM PROPERTY"
+	},
+	{
+		"purpose_id" : 3324,
+		"primary_purpose" : "FARM\/RES"
+	},
+	{
+		"purpose_id" : 3327,
+		"primary_purpose" : "FARM & RESIDE"
+	},
+	{
+		"purpose_id" : 3332,
+		"primary_purpose" : "FARM\/RESIDENC"
+	},
+	{
+		"purpose_id" : 3334,
+		"primary_purpose" : "FARM RESIDENCE"
+	},
+	{
+		"purpose_id" : 3336,
+		"primary_purpose" : "FARM\/RESIDENCE"
+	},
+	{
+		"purpose_id" : 3354,
+		"primary_purpose" : "FARM \/ RURAL"
+	},
+	{
+		"purpose_id" : 3357,
+		"primary_purpose" : "FARM RURAL"
+	},
+	{
+		"purpose_id" : 3361,
+		"primary_purpose" : "FARM.RURAL"
+	},
+	{
+		"purpose_id" : 3364,
+		"primary_purpose" : "FARM\/RURAL"
+	},
+	{
+		"purpose_id" : 3365,
+		"primary_purpose" : "FARM\/RURAL "
+	},
+	{
+		"purpose_id" : 3368,
+		"primary_purpose" : "FARM:RURAL"
+	},
+	{
+		"purpose_id" : 3369,
+		"primary_purpose" : "FARMRURAL"
+	},
+	{
+		"purpose_id" : 3396,
+		"primary_purpose" : "FARMS"
+	},
+	{
+		"purpose_id" : 3412,
+		"primary_purpose" : "FARM SHED"
+	},
+	{
+		"purpose_id" : 3447,
+		"primary_purpose" : "FARM - WHOLE OF PROP"
+	},
+	{
+		"purpose_id" : 3464,
+		"primary_purpose" : "FARN"
+	},
+	{
+		"purpose_id" : 3505,
+		"primary_purpose" : "FIRE STATION"
+	},
+	{
+		"purpose_id" : 3519,
+		"primary_purpose" : "FLAT"
+	},
+	{
+		"purpose_id" : 3533,
+		"primary_purpose" : "FLATS"
+	},
+	{
+		"purpose_id" : 3534,
+		"primary_purpose" : "FLATS "
+	},
+	{
+		"purpose_id" : 3608,
+		"primary_purpose" : "FOREST"
+	},
+	{
+		"purpose_id" : 3610,
+		"primary_purpose" : "FORESTRY"
+	},
+	{
+		"purpose_id" : 3611,
+		"primary_purpose" : "FORESTRY LAND"
+	},
+	{
+		"purpose_id" : 3612,
+		"primary_purpose" : "FORESTRY PLAN"
+	},
+	{
+		"purpose_id" : 3613,
+		"primary_purpose" : "FORESTS"
+	},
+	{
+		"purpose_id" : 3641,
+		"primary_purpose" : "FORMER CROWN ROAD"
+	},
+	{
+		"purpose_id" : 3642,
+		"primary_purpose" : "FORMER CROWN ROADS"
+	},
+	{
+		"purpose_id" : 3660,
+		"primary_purpose" : "FORMER ROAD"
+	},
+	{
+		"purpose_id" : 3662,
+		"primary_purpose" : "FORMER SCHOOL"
+	},
+	{
+		"purpose_id" : 3707,
+		"primary_purpose" : "FUEL DEPOT"
+	},
+	{
+		"purpose_id" : 3717,
+		"primary_purpose" : "FUNCTION CENT"
+	},
+	{
+		"purpose_id" : 3728,
+		"primary_purpose" : "FUNERAL HOME"
+	},
+	{
+		"purpose_id" : 3732,
+		"primary_purpose" : "FUNERAL PARLO"
+	},
+	{
+		"purpose_id" : 3746,
+		"primary_purpose" : "GARAGE"
+	},
+	{
+		"purpose_id" : 3759,
+		"primary_purpose" : "GARAGE, HOUSE"
+	},
+	{
+		"purpose_id" : 3768,
+		"primary_purpose" : "GARAGES"
+	},
+	{
+		"purpose_id" : 3779,
+		"primary_purpose" : "GARAGE SPACE"
+	},
+	{
+		"purpose_id" : 3813,
+		"primary_purpose" : "GENERAL STORE"
+	},
+	{
+		"purpose_id" : 3837,
+		"primary_purpose" : "GOLF COURSE"
+	},
+	{
+		"purpose_id" : 3839,
+		"primary_purpose" : "GOLF COURSE &"
+	},
+	{
+		"purpose_id" : 3864,
+		"primary_purpose" : "GRAIN STORAGE"
+	},
+	{
+		"purpose_id" : 3874,
+		"primary_purpose" : "GRAZING"
+	},
+	{
+		"purpose_id" : 3883,
+		"primary_purpose" : "GRAZING LAND"
+	},
+	{
+		"purpose_id" : 3890,
+		"primary_purpose" : "GRAZING LANDS"
+	},
+	{
+		"purpose_id" : 3894,
+		"primary_purpose" : "GRAZING PROPE"
+	},
+	{
+		"purpose_id" : 3913,
+		"primary_purpose" : "GUEST HOUSE"
+	},
+	{
+		"purpose_id" : 3916,
+		"primary_purpose" : "GUESTHOUSE"
+	},
+	{
+		"purpose_id" : 3939,
+		"primary_purpose" : "HALL"
+	},
+	{
+		"purpose_id" : 3957,
+		"primary_purpose" : "HANGAR"
+	},
+	{
+		"purpose_id" : 3960,
+		"primary_purpose" : "HANGER"
+	},
+	{
+		"purpose_id" : 4013,
+		"primary_purpose" : "HOBBY FARM"
+	},
+	{
+		"purpose_id" : 4036,
+		"primary_purpose" : "HOLIDAY FLATS"
+	},
+	{
+		"purpose_id" : 4045,
+		"primary_purpose" : "HOLIDAY PARK"
+	},
+	{
+		"purpose_id" : 4048,
+		"primary_purpose" : "HOLIDAY RESOR"
+	},
+	{
+		"purpose_id" : 4049,
+		"primary_purpose" : "HOLIDAY RESORT"
+	},
+	{
+		"purpose_id" : 4053,
+		"primary_purpose" : "HOLIDAY UNIT"
+	},
+	{
+		"purpose_id" : 4056,
+		"primary_purpose" : "HOLIDAY UNITS"
+	},
+	{
+		"purpose_id" : 4062,
+		"primary_purpose" : "HOME"
+	},
+	{
+		"purpose_id" : 4086,
+		"primary_purpose" : "HOMESTEAD"
+	},
+	{
+		"purpose_id" : 4106,
+		"primary_purpose" : "HOME  UNIT"
+	},
+	{
+		"purpose_id" : 4109,
+		"primary_purpose" : "HOME UNIT"
+	},
+	{
+		"purpose_id" : 4110,
+		"primary_purpose" : "HOME UNIT "
+	},
+	{
+		"purpose_id" : 4119,
+		"primary_purpose" : "HOMEUNIT"
+	},
+	{
+		"purpose_id" : 4126,
+		"primary_purpose" : "HOME UNIT BLD"
+	},
+	{
+		"purpose_id" : 4127,
+		"primary_purpose" : "HOME UNIT BLO"
+	},
+	{
+		"purpose_id" : 4129,
+		"primary_purpose" : "HOME UNIT & C"
+	},
+	{
+		"purpose_id" : 4135,
+		"primary_purpose" : "HOME UNIT\/CAR"
+	},
+	{
+		"purpose_id" : 4138,
+		"primary_purpose" : "HOME UNIT & G"
+	},
+	{
+		"purpose_id" : 4150,
+		"primary_purpose" : "HOME UNITS"
+	},
+	{
+		"purpose_id" : 4188,
+		"primary_purpose" : "HORSE STABLES"
+	},
+	{
+		"purpose_id" : 4190,
+		"primary_purpose" : "HORSE STUD"
+	},
+	{
+		"purpose_id" : 4196,
+		"primary_purpose" : "HOSPITAL"
+	},
+	{
+		"purpose_id" : 4200,
+		"primary_purpose" : "HOSPITALS"
+	},
+	{
+		"purpose_id" : 4203,
+		"primary_purpose" : "HOSTEL"
+	},
+	{
+		"purpose_id" : 4209,
+		"primary_purpose" : "HOTEL"
+	},
+	{
+		"purpose_id" : 4210,
+		"primary_purpose" : "HOTEL "
+	},
+	{
+		"purpose_id" : 4256,
+		"primary_purpose" : "HOTEL\/MOTEL"
+	},
+	{
+		"purpose_id" : 4265,
+		"primary_purpose" : "HOTEL PREMISE"
+	},
+	{
+		"purpose_id" : 4276,
+		"primary_purpose" : "HOTEL RESORT"
+	},
+	{
+		"purpose_id" : 4281,
+		"primary_purpose" : "HOTEL ROOM"
+	},
+	{
+		"purpose_id" : 4295,
+		"primary_purpose" : "HOTEL UNIT "
+	},
+	{
+		"purpose_id" : 4301,
+		"primary_purpose" : "HOUSE"
+	},
+	{
+		"purpose_id" : 4302,
+		"primary_purpose" : "HOUSE "
+	},
+	{
+		"purpose_id" : 4322,
+		"primary_purpose" : "HOUSE AND FARM"
+	},
+	{
+		"purpose_id" : 4328,
+		"primary_purpose" : "HOUSE AND LAN"
+	},
+	{
+		"purpose_id" : 4330,
+		"primary_purpose" : "HOUSE AND LAND"
+	},
+	{
+		"purpose_id" : 4370,
+		"primary_purpose" : "HOUSE & FARM"
+	},
+	{
+		"purpose_id" : 4375,
+		"primary_purpose" : "HOUSE\/FARM"
+	},
+	{
+		"purpose_id" : 4388,
+		"primary_purpose" : "HOUSE&FARMLAND"
+	},
+	{
+		"purpose_id" : 4389,
+		"primary_purpose" : "HOUSE\/FARMLAND"
+	},
+	{
+		"purpose_id" : 4399,
+		"primary_purpose" : "HOUSE & GARAG"
+	},
+	{
+		"purpose_id" : 4427,
+		"primary_purpose" : "HOUSE & LAND"
+	},
+	{
+		"purpose_id" : 4432,
+		"primary_purpose" : "HOUSE\/LAND"
+	},
+	{
+		"purpose_id" : 4463,
+		"primary_purpose" : "HOUSE & RURAL"
+	},
+	{
+		"purpose_id" : 4467,
+		"primary_purpose" : "HOUSE\/RURAL"
+	},
+	{
+		"purpose_id" : 4489,
+		"primary_purpose" : "HOUSE & SHOP"
+	},
+	{
+		"purpose_id" : 4494,
+		"primary_purpose" : "HOUSE\/SHOP"
+	},
+	{
+		"purpose_id" : 4520,
+		"primary_purpose" : "HOUSE TOWNHOU"
+	},
+	{
+		"purpose_id" : 4524,
+		"primary_purpose" : "HOUSE\/TOWNHOU"
+	},
+	{
+		"purpose_id" : 4581,
+		"primary_purpose" : "I"
+	},
+	{
+		"purpose_id" : 4629,
+		"primary_purpose" : "INCLUDES 24 LOTS SOL"
+	},
+	{
+		"purpose_id" : 4635,
+		"primary_purpose" : "INCLUDES OTHER LANDS"
+	},
+	{
+		"purpose_id" : 4695,
+		"primary_purpose" : "IND UNIT"
+	},
+	{
+		"purpose_id" : 4723,
+		"primary_purpose" : "INDUST\/COM"
+	},
+	{
+		"purpose_id" : 4725,
+		"primary_purpose" : "INDUST\/COMM"
+	},
+	{
+		"purpose_id" : 4757,
+		"primary_purpose" : "INDUSTRAIL"
+	},
+	{
+		"purpose_id" : 4778,
+		"primary_purpose" : "INDUSTRIAL"
+	},
+	{
+		"purpose_id" : 4779,
+		"primary_purpose" : "INDUSTRIAL "
+	},
+	{
+		"purpose_id" : 4790,
+		"primary_purpose" : "INDUSTRIAL BA"
+	},
+	{
+		"purpose_id" : 4791,
+		"primary_purpose" : "INDUSTRIAL BAY"
+	},
+	{
+		"purpose_id" : 4794,
+		"primary_purpose" : "INDUSTRIAL BL"
+	},
+	{
+		"purpose_id" : 4800,
+		"primary_purpose" : "INDUSTRIAL BU"
+	},
+	{
+		"purpose_id" : 4803,
+		"primary_purpose" : "INDUSTRIAL BUI"
+	},
+	{
+		"purpose_id" : 4808,
+		"primary_purpose" : "INDUSTRIAL CO"
+	},
+	{
+		"purpose_id" : 4809,
+		"primary_purpose" : "INDUSTRIAL\/CO"
+	},
+	{
+		"purpose_id" : 4812,
+		"primary_purpose" : "INDUSTRIAL\/COM"
+	},
+	{
+		"purpose_id" : 4813,
+		"primary_purpose" : "INDUSTRIALCOM"
+	},
+	{
+		"purpose_id" : 4817,
+		"primary_purpose" : "INDUSTRIAL ES"
+	},
+	{
+		"purpose_id" : 4818,
+		"primary_purpose" : "INDUSTRIAL FA"
+	},
+	{
+		"purpose_id" : 4827,
+		"primary_purpose" : "INDUSTRIAL LA"
+	},
+	{
+		"purpose_id" : 4833,
+		"primary_purpose" : "INDUSTRIAL LOT"
+	},
+	{
+		"purpose_id" : 4846,
+		"primary_purpose" : "INDUSTRIAL PR"
+	},
+	{
+		"purpose_id" : 4858,
+		"primary_purpose" : "INDUSTRIAL SH"
+	},
+	{
+		"purpose_id" : 4863,
+		"primary_purpose" : "INDUSTRIAL SHE"
+	},
+	{
+		"purpose_id" : 4866,
+		"primary_purpose" : "INDUSTRIALSHED"
+	},
+	{
+		"purpose_id" : 4870,
+		"primary_purpose" : "INDUSTRIAL SI"
+	},
+	{
+		"purpose_id" : 4874,
+		"primary_purpose" : "INDUSTRIAL ST"
+	},
+	{
+		"purpose_id" : 4878,
+		"primary_purpose" : "INDUSTRIAL SU"
+	},
+	{
+		"purpose_id" : 4882,
+		"primary_purpose" : "INDUSTRIAL UN"
+	},
+	{
+		"purpose_id" : 4883,
+		"primary_purpose" : "INDUSTRIAL UN "
+	},
+	{
+		"purpose_id" : 4887,
+		"primary_purpose" : "INDUSTRIAL UNI"
+	},
+	{
+		"purpose_id" : 4888,
+		"primary_purpose" : "INDUSTRIALUNI"
+	},
+	{
+		"purpose_id" : 4889,
+		"primary_purpose" : "INDUSTRIALUNIT"
+	},
+	{
+		"purpose_id" : 4894,
+		"primary_purpose" : "INDUSTRIAL WA"
+	},
+	{
+		"purpose_id" : 4896,
+		"primary_purpose" : "INDUSTRIAL\/WA"
+	},
+	{
+		"purpose_id" : 4899,
+		"primary_purpose" : "INDUSTRIAL WO"
+	},
+	{
+		"purpose_id" : 4920,
+		"primary_purpose" : "INDUSTRY"
+	},
+	{
+		"purpose_id" : 4930,
+		"primary_purpose" : "INDUST SHED"
+	},
+	{
+		"purpose_id" : 4940,
+		"primary_purpose" : "INDUST UNIT"
+	},
+	{
+		"purpose_id" : 4941,
+		"primary_purpose" : "INDUST. UNIT"
+	},
+	{
+		"purpose_id" : 4959,
+		"primary_purpose" : "IND WAREHOUSE"
+	},
+	{
+		"purpose_id" : 4984,
+		"primary_purpose" : "INVESTMENT"
+	},
+	{
+		"purpose_id" : 5034,
+		"primary_purpose" : "KINDERGARTEN"
+	},
+	{
+		"purpose_id" : 5052,
+		"primary_purpose" : "LAND"
+	},
+	{
+		"purpose_id" : 5062,
+		"primary_purpose" : "LAND AND SHED"
+	},
+	{
+		"purpose_id" : 5116,
+		"primary_purpose" : "LAND\/RES"
+	},
+	{
+		"purpose_id" : 5128,
+		"primary_purpose" : "LAND & SHED"
+	},
+	{
+		"purpose_id" : 5130,
+		"primary_purpose" : "LAND\/SHED"
+	},
+	{
+		"purpose_id" : 5150,
+		"primary_purpose" : "LAND WITH SHED"
+	},
+	{
+		"purpose_id" : 5155,
+		"primary_purpose" : "LANEWAY"
+	},
+	{
+		"purpose_id" : 5161,
+		"primary_purpose" : "LARGE SHED"
+	},
+	{
+		"purpose_id" : 5197,
+		"primary_purpose" : "LICENSED HOTE"
+	},
+	{
+		"purpose_id" : 5198,
+		"primary_purpose" : "LICENSED HOTEL"
+	},
+	{
+		"purpose_id" : 5207,
+		"primary_purpose" : "LIGHT INDUSTR"
+	},
+	{
+		"purpose_id" : 5210,
+		"primary_purpose" : "LIGHT INDUSTRY"
+	},
+	{
+		"purpose_id" : 5242,
+		"primary_purpose" : "LODGE"
+	},
+	{
+		"purpose_id" : 5454,
+		"primary_purpose" : "MACHINERY SHE"
+	},
+	{
+		"purpose_id" : 5455,
+		"primary_purpose" : "MACHINERY SHED"
+	},
+	{
+		"purpose_id" : 5473,
+		"primary_purpose" : "MARINA"
+	},
+	{
+		"purpose_id" : 5478,
+		"primary_purpose" : "MARINA BERTH"
+	},
+	{
+		"purpose_id" : 5480,
+		"primary_purpose" : "MARINABERTH"
+	},
+	{
+		"purpose_id" : 5492,
+		"primary_purpose" : "MARINE BERTH"
+	},
+	{
+		"purpose_id" : 5500,
+		"primary_purpose" : "MASONIC HALL"
+	},
+	{
+		"purpose_id" : 5522,
+		"primary_purpose" : "MEDICAL"
+	},
+	{
+		"purpose_id" : 5523,
+		"primary_purpose" : "MEDICAL CENTR"
+	},
+	{
+		"purpose_id" : 5524,
+		"primary_purpose" : "MEDICAL CENTRE"
+	},
+	{
+		"purpose_id" : 5539,
+		"primary_purpose" : "MEDICAL PRACT"
+	},
+	{
+		"purpose_id" : 5547,
+		"primary_purpose" : "MEDICAL ROOMS"
+	},
+	{
+		"purpose_id" : 5551,
+		"primary_purpose" : "MEDICAL SUITE"
+	},
+	{
+		"purpose_id" : 5555,
+		"primary_purpose" : "MEDICAL SUITES"
+	},
+	{
+		"purpose_id" : 5558,
+		"primary_purpose" : "MEDICAL SURGE"
+	},
+	{
+		"purpose_id" : 5590,
+		"primary_purpose" : "MILL"
+	},
+	{
+		"purpose_id" : 5594,
+		"primary_purpose" : "MINE"
+	},
+	{
+		"purpose_id" : 5596,
+		"primary_purpose" : "MINE\/FARM"
+	},
+	{
+		"purpose_id" : 5605,
+		"primary_purpose" : "MINE SITE"
+	},
+	{
+		"purpose_id" : 5608,
+		"primary_purpose" : "MINING"
+	},
+	{
+		"purpose_id" : 5612,
+		"primary_purpose" : "MINING LAND"
+	},
+	{
+		"purpose_id" : 5624,
+		"primary_purpose" : "MIXED"
+	},
+	{
+		"purpose_id" : 5628,
+		"primary_purpose" : "MIXEDCOMMERCI"
+	},
+	{
+		"purpose_id" : 5634,
+		"primary_purpose" : "MIXED FARMING"
+	},
+	{
+		"purpose_id" : 5640,
+		"primary_purpose" : "MIXED USE"
+	},
+	{
+		"purpose_id" : 5671,
+		"primary_purpose" : "MOORING"
+	},
+	{
+		"purpose_id" : 5676,
+		"primary_purpose" : "MOORINGS"
+	},
+	{
+		"purpose_id" : 5683,
+		"primary_purpose" : "MOTEL"
+	},
+	{
+		"purpose_id" : 5684,
+		"primary_purpose" : "MOTEL "
+	},
+	{
+		"purpose_id" : 5726,
+		"primary_purpose" : "MOTEL ROOM"
+	},
+	{
+		"purpose_id" : 5729,
+		"primary_purpose" : "MOTELS"
+	},
+	{
+		"purpose_id" : 5734,
+		"primary_purpose" : "MOTEL UNIT"
+	},
+	{
+		"purpose_id" : 5735,
+		"primary_purpose" : "MOTELUNIT"
+	},
+	{
+		"purpose_id" : 5745,
+		"primary_purpose" : "MOTOR DEALERS"
+	},
+	{
+		"purpose_id" : 5747,
+		"primary_purpose" : "MOTOR INN"
+	},
+	{
+		"purpose_id" : 5755,
+		"primary_purpose" : "MOTOR VEHICLE"
+	},
+	{
+		"purpose_id" : 5817,
+		"primary_purpose" : "NEWSAGENCY"
+	},
+	{
+		"purpose_id" : 5833,
+		"primary_purpose" : "NONE"
+	},
+	{
+		"purpose_id" : 5855,
+		"primary_purpose" : "NULL"
+	},
+	{
+		"purpose_id" : 5857,
+		"primary_purpose" : "NURSERY"
+	},
+	{
+		"purpose_id" : 5871,
+		"primary_purpose" : "NURSING HOME"
+	},
+	{
+		"purpose_id" : 5904,
+		"primary_purpose" : "OFFICE"
+	},
+	{
+		"purpose_id" : 5905,
+		"primary_purpose" : "OFFICE "
+	},
+	{
+		"purpose_id" : 5923,
+		"primary_purpose" : "OFFICE BLD"
+	},
+	{
+		"purpose_id" : 5924,
+		"primary_purpose" : "OFFICE BLDG"
+	},
+	{
+		"purpose_id" : 5932,
+		"primary_purpose" : "OFFICE BLOCK"
+	},
+	{
+		"purpose_id" : 5938,
+		"primary_purpose" : "OFFICE BUILDI"
+	},
+	{
+		"purpose_id" : 5940,
+		"primary_purpose" : "OFFICE BUILDIN"
+	},
+	{
+		"purpose_id" : 5949,
+		"primary_purpose" : "OFFICE & CAR"
+	},
+	{
+		"purpose_id" : 5953,
+		"primary_purpose" : "OFFICE & CARS"
+	},
+	{
+		"purpose_id" : 5959,
+		"primary_purpose" : "OFFICE\/CAR SP"
+	},
+	{
+		"purpose_id" : 5964,
+		"primary_purpose" : "OFFICE\/CARSPA"
+	},
+	{
+		"purpose_id" : 5983,
+		"primary_purpose" : "OFFICE\/FACTOR"
+	},
+	{
+		"purpose_id" : 6009,
+		"primary_purpose" : "OFFICE & PARK"
+	},
+	{
+		"purpose_id" : 6014,
+		"primary_purpose" : "OFFICE PREMIS"
+	},
+	{
+		"purpose_id" : 6016,
+		"primary_purpose" : "OFFICE PREMISE"
+	},
+	{
+		"purpose_id" : 6037,
+		"primary_purpose" : "OFFICES"
+	},
+	{
+		"purpose_id" : 6043,
+		"primary_purpose" : "OFFICES\/CARSP"
+	},
+	{
+		"purpose_id" : 6051,
+		"primary_purpose" : "OFFICE & SHED"
+	},
+	{
+		"purpose_id" : 6065,
+		"primary_purpose" : "OFFICE\/SHOP"
+	},
+	{
+		"purpose_id" : 6077,
+		"primary_purpose" : "OFFICE SPACE"
+	},
+	{
+		"purpose_id" : 6090,
+		"primary_purpose" : "OFFICE STE"
+	},
+	{
+		"purpose_id" : 6110,
+		"primary_purpose" : "OFFICE SUITE"
+	},
+	{
+		"purpose_id" : 6117,
+		"primary_purpose" : "OFFICE SUITES"
+	},
+	{
+		"purpose_id" : 6131,
+		"primary_purpose" : "OFFICE UNIT"
+	},
+	{
+		"purpose_id" : 6137,
+		"primary_purpose" : "OFFICE UNITS"
+	},
+	{
+		"purpose_id" : 6141,
+		"primary_purpose" : "OFFICE & WARE"
+	},
+	{
+		"purpose_id" : 6150,
+		"primary_purpose" : "OFFICE\/WAREHO"
+	},
+	{
+		"purpose_id" : 6153,
+		"primary_purpose" : "OFFICE\/WAREHOU"
+	},
+	{
+		"purpose_id" : 6174,
+		"primary_purpose" : "OFFICE\/WORKSH"
+	},
+	{
+		"purpose_id" : 6217,
+		"primary_purpose" : "OLD CHURCH"
+	},
+	{
+		"purpose_id" : 6267,
+		"primary_purpose" : "OLD SHOP"
+	},
+	{
+		"purpose_id" : 6310,
+		"primary_purpose" : "ORCHARD"
+	},
+	{
+		"purpose_id" : 6320,
+		"primary_purpose" : "Other"
+	},
+	{
+		"purpose_id" : 6321,
+		"primary_purpose" : "OTHER"
+	},
+	{
+		"purpose_id" : 6331,
+		"primary_purpose" : "OTHER - FARM"
+	},
+	{
+		"purpose_id" : 6332,
+		"primary_purpose" : "OTHER FARM"
+	},
+	{
+		"purpose_id" : 6363,
+		"primary_purpose" : "OYSTER FARM"
+	},
+	{
+		"purpose_id" : 6377,
+		"primary_purpose" : "PACKING SHED"
+	},
+	{
+		"purpose_id" : 6394,
+		"primary_purpose" : "PARKING SPACE"
+	},
+	{
+		"purpose_id" : 6423,
+		"primary_purpose" : "PART FARM"
+	},
+	{
+		"purpose_id" : 6468,
+		"primary_purpose" : "PART LOT ONLY"
+	},
+	{
+		"purpose_id" : 6509,
+		"primary_purpose" : "PART SALE OF PROPERT"
+	},
+	{
+		"purpose_id" : 6550,
+		"primary_purpose" : "PETROL STATIO"
+	},
+	{
+		"purpose_id" : 6551,
+		"primary_purpose" : "PETROL STATION"
+	},
+	{
+		"purpose_id" : 6558,
+		"primary_purpose" : "PHARMACY"
+	},
+	{
+		"purpose_id" : 6569,
+		"primary_purpose" : "PIGGERY"
+	},
+	{
+		"purpose_id" : 6572,
+		"primary_purpose" : "PINE FOREST"
+	},
+	{
+		"purpose_id" : 6586,
+		"primary_purpose" : "PLANTATION"
+	},
+	{
+		"purpose_id" : 6611,
+		"primary_purpose" : "POLICE STATIO"
+	},
+	{
+		"purpose_id" : 6623,
+		"primary_purpose" : "POST OFFICE"
+	},
+	{
+		"purpose_id" : 6633,
+		"primary_purpose" : "POULTRY FARM"
+	},
+	{
+		"purpose_id" : 6644,
+		"primary_purpose" : "PREMISES"
+	},
+	{
+		"purpose_id" : 6648,
+		"primary_purpose" : "PRE SCHOOL"
+	},
+	{
+		"purpose_id" : 6649,
+		"primary_purpose" : "PRE-SCHOOL"
+	},
+	{
+		"purpose_id" : 6650,
+		"primary_purpose" : "PRESCHOOL"
+	},
+	{
+		"purpose_id" : 6666,
+		"primary_purpose" : "PRIMARY PRODUC"
+	},
+	{
+		"purpose_id" : 6680,
+		"primary_purpose" : "PRIVATE HOTEL"
+	},
+	{
+		"purpose_id" : 6693,
+		"primary_purpose" : "PROFESSIONAL"
+	},
+	{
+		"purpose_id" : 6827,
+		"primary_purpose" : "PUB"
+	},
+	{
+		"purpose_id" : 6838,
+		"primary_purpose" : "PUBLIC RESERVE"
+	},
+	{
+		"purpose_id" : 6840,
+		"primary_purpose" : "PUBLIC ROAD"
+	},
+	{
+		"purpose_id" : 6855,
+		"primary_purpose" : "PUMP STATION"
+	},
+	{
+		"purpose_id" : 6879,
+		"primary_purpose" : "QUARRY"
+	},
+	{
+		"purpose_id" : 6887,
+		"primary_purpose" : "R"
+	},
+	{
+		"purpose_id" : 6905,
+		"primary_purpose" : "RAILWAY"
+	},
+	{
+		"purpose_id" : 6980,
+		"primary_purpose" : "RENTAL"
+	},
+	{
+		"purpose_id" : 6985,
+		"primary_purpose" : "RENTAL UNITS"
+	},
+	{
+		"purpose_id" : 7008,
+		"primary_purpose" : "RES\/COMM"
+	},
+	{
+		"purpose_id" : 7013,
+		"primary_purpose" : "RES\/COMMERCIAL"
+	},
+	{
+		"purpose_id" : 7026,
+		"primary_purpose" : "RESERVOIR"
+	},
+	{
+		"purpose_id" : 7051,
+		"primary_purpose" : "RESI\/COMM"
+	},
+	{
+		"purpose_id" : 7071,
+		"primary_purpose" : "RESIDENCE"
+	},
+	{
+		"purpose_id" : 7123,
+		"primary_purpose" : "RESIDENCE \/CO"
+	},
+	{
+		"purpose_id" : 7146,
+		"primary_purpose" : "RESIDENCE\/FAR"
+	},
+	{
+		"purpose_id" : 7149,
+		"primary_purpose" : "RESIDENCE\/FARM"
+	},
+	{
+		"purpose_id" : 7287,
+		"primary_purpose" : "RESIDENCE(PART ONLY)"
+	},
+	{
+		"purpose_id" : 7336,
+		"primary_purpose" : "RESIDENCE(PT ONLY)"
+	},
+	{
+		"purpose_id" : 7349,
+		"primary_purpose" : "RESIDENCE & S"
+	},
+	{
+		"purpose_id" : 7350,
+		"primary_purpose" : "RESIDENCES"
+	},
+	{
+		"purpose_id" : 7366,
+		"primary_purpose" : "RESIDENCE\/SHO"
+	},
+	{
+		"purpose_id" : 7371,
+		"primary_purpose" : "RESIDENCE\/SHOP"
+	},
+	{
+		"purpose_id" : 7433,
+		"primary_purpose" : "RESIDENTIAL"
+	},
+	{
+		"purpose_id" : 7445,
+		"primary_purpose" : "RESIDENTIAL B"
+	},
+	{
+		"purpose_id" : 7447,
+		"primary_purpose" : "RESIDENTIAL C"
+	},
+	{
+		"purpose_id" : 7449,
+		"primary_purpose" : "RESIDENTIAL\/C"
+	},
+	{
+		"purpose_id" : 7451,
+		"primary_purpose" : "RESIDENTIALCO"
+	},
+	{
+		"purpose_id" : 7453,
+		"primary_purpose" : "RESIDENTIAL F"
+	},
+	{
+		"purpose_id" : 7458,
+		"primary_purpose" : "RESIDENTIAL\/I"
+	},
+	{
+		"purpose_id" : 7469,
+		"primary_purpose" : "RESIDENTIAL U"
+	},
+	{
+		"purpose_id" : 7510,
+		"primary_purpose" : "RES\/LAND"
+	},
+	{
+		"purpose_id" : 7520,
+		"primary_purpose" : "RESORT"
+	},
+	{
+		"purpose_id" : 7522,
+		"primary_purpose" : "RESORT\/ACCOM"
+	},
+	{
+		"purpose_id" : 7523,
+		"primary_purpose" : "RESORT APARTM"
+	},
+	{
+		"purpose_id" : 7527,
+		"primary_purpose" : "RESORT APT"
+	},
+	{
+		"purpose_id" : 7530,
+		"primary_purpose" : "RESORT UNIT"
+	},
+	{
+		"purpose_id" : 7546,
+		"primary_purpose" : "RES\/SHOP"
+	},
+	{
+		"purpose_id" : 7560,
+		"primary_purpose" : "RESTAURANT"
+	},
+	{
+		"purpose_id" : 7567,
+		"primary_purpose" : "RESTAURANT, C"
+	},
+	{
+		"purpose_id" : 7598,
+		"primary_purpose" : "RETAIL"
+	},
+	{
+		"purpose_id" : 7602,
+		"primary_purpose" : "RETAIL BUILDI"
+	},
+	{
+		"purpose_id" : 7612,
+		"primary_purpose" : "RETAIL CENTRE"
+	},
+	{
+		"purpose_id" : 7615,
+		"primary_purpose" : "RETAIL & COMM"
+	},
+	{
+		"purpose_id" : 7619,
+		"primary_purpose" : "RETAIL\/COMMER"
+	},
+	{
+		"purpose_id" : 7620,
+		"primary_purpose" : "RETAIL\/COMMERC"
+	},
+	{
+		"purpose_id" : 7633,
+		"primary_purpose" : "RETAIL LOT"
+	},
+	{
+		"purpose_id" : 7641,
+		"primary_purpose" : "RETAIL\/OFFICE"
+	},
+	{
+		"purpose_id" : 7649,
+		"primary_purpose" : "RETAIL PREMIS"
+	},
+	{
+		"purpose_id" : 7650,
+		"primary_purpose" : "RETAIL PREMISE"
+	},
+	{
+		"purpose_id" : 7667,
+		"primary_purpose" : "RETAIL SHOP"
+	},
+	{
+		"purpose_id" : 7672,
+		"primary_purpose" : "RETAILSHOP"
+	},
+	{
+		"purpose_id" : 7675,
+		"primary_purpose" : "RETAIL SHOPPI"
+	},
+	{
+		"purpose_id" : 7678,
+		"primary_purpose" : "RETAIL SHOPS"
+	},
+	{
+		"purpose_id" : 7683,
+		"primary_purpose" : "RETAIL SPACE"
+	},
+	{
+		"purpose_id" : 7690,
+		"primary_purpose" : "RETAIL STRATA"
+	},
+	{
+		"purpose_id" : 7694,
+		"primary_purpose" : "RETAIL SUITE"
+	},
+	{
+		"purpose_id" : 7698,
+		"primary_purpose" : "RETAIL UNIT"
+	},
+	{
+		"purpose_id" : 7700,
+		"primary_purpose" : "RETAIL UNITS"
+	},
+	{
+		"purpose_id" : 7716,
+		"primary_purpose" : "RETIREMENT"
+	},
+	{
+		"purpose_id" : 7721,
+		"primary_purpose" : "RETIREMENT UN"
+	},
+	{
+		"purpose_id" : 7726,
+		"primary_purpose" : "RETIREMENT VI"
+	},
+	{
+		"purpose_id" : 7727,
+		"primary_purpose" : "RETIREMENT VIL"
+	},
+	{
+		"purpose_id" : 7738,
+		"primary_purpose" : "RETIRE.VILLAGE"
+	},
+	{
+		"purpose_id" : 7739,
+		"primary_purpose" : "RETIRMENT VIL"
+	},
+	{
+		"purpose_id" : 7750,
+		"primary_purpose" : "RET VILLAGE"
+	},
+	{
+		"purpose_id" : 7769,
+		"primary_purpose" : "ROAD"
+	},
+	{
+		"purpose_id" : 7778,
+		"primary_purpose" : "ROAD CLOSURE"
+	},
+	{
+		"purpose_id" : 7781,
+		"primary_purpose" : "ROADHOUSE"
+	},
+	{
+		"purpose_id" : 7792,
+		"primary_purpose" : "ROAD RESERVE"
+	},
+	{
+		"purpose_id" : 7795,
+		"primary_purpose" : "ROADS"
+	},
+	{
+		"purpose_id" : 7804,
+		"primary_purpose" : "ROAD WIDENING"
+	},
+	{
+		"purpose_id" : 7815,
+		"primary_purpose" : "ROOFTOP"
+	},
+	{
+		"purpose_id" : 7834,
+		"primary_purpose" : "RSL CLUB"
+	},
+	{
+		"purpose_id" : 7871,
+		"primary_purpose" : "RURAL"
+	},
+	{
+		"purpose_id" : 7906,
+		"primary_purpose" : "RURAL FARM"
+	},
+	{
+		"purpose_id" : 7909,
+		"primary_purpose" : "RURAL\/FARM"
+	},
+	{
+		"purpose_id" : 7910,
+		"primary_purpose" : "RURALFARM"
+	},
+	{
+		"purpose_id" : 7917,
+		"primary_purpose" : "RURAL FARMLAND"
+	},
+	{
+		"purpose_id" : 7921,
+		"primary_purpose" : "RURAL-FARM\/MI"
+	},
+	{
+		"purpose_id" : 7933,
+		"primary_purpose" : "RURAL HOME"
+	},
+	{
+		"purpose_id" : 7938,
+		"primary_purpose" : "RURAL HOUSE"
+	},
+	{
+		"purpose_id" : 7946,
+		"primary_purpose" : "RURAL LAND"
+	},
+	{
+		"purpose_id" : 7950,
+		"primary_purpose" : "RURALLAND"
+	},
+	{
+		"purpose_id" : 7961,
+		"primary_purpose" : "RURAL LANDS"
+	},
+	{
+		"purpose_id" : 7969,
+		"primary_purpose" : "RURAL LIFESTY"
+	},
+	{
+		"purpose_id" : 7987,
+		"primary_purpose" : "RURAL PROP"
+	},
+	{
+		"purpose_id" : 7989,
+		"primary_purpose" : "RURAL PROPERT"
+	},
+	{
+		"purpose_id" : 7991,
+		"primary_purpose" : "RURAL PROPERTY"
+	},
+	{
+		"purpose_id" : 8004,
+		"primary_purpose" : "RURAL RESIDEN"
+	},
+	{
+		"purpose_id" : 8007,
+		"primary_purpose" : "RURAL RESIDENC"
+	},
+	{
+		"purpose_id" : 8011,
+		"primary_purpose" : "RURAL RESIDENT"
+	},
+	{
+		"purpose_id" : 8019,
+		"primary_purpose" : "RURAL SHED"
+	},
+	{
+		"purpose_id" : 8079,
+		"primary_purpose" : "SALEYARDS"
+	},
+	{
+		"purpose_id" : 8092,
+		"primary_purpose" : "SAW MILL"
+	},
+	{
+		"purpose_id" : 8093,
+		"primary_purpose" : "SAWMILL"
+	},
+	{
+		"purpose_id" : 8100,
+		"primary_purpose" : "SCHOOL"
+	},
+	{
+		"purpose_id" : 8108,
+		"primary_purpose" : "SCHOOL BUILDI"
+	},
+	{
+		"purpose_id" : 8123,
+		"primary_purpose" : "SCHOOL SITE"
+	},
+	{
+		"purpose_id" : 8126,
+		"primary_purpose" : "SCOUT HALL"
+	},
+	{
+		"purpose_id" : 8145,
+		"primary_purpose" : "SELF STORAGE"
+	},
+	{
+		"purpose_id" : 8167,
+		"primary_purpose" : "SERVICE APART"
+	},
+	{
+		"purpose_id" : 8176,
+		"primary_purpose" : "SERVICED"
+	},
+	{
+		"purpose_id" : 8178,
+		"primary_purpose" : "SERVICED APAR"
+	},
+	{
+		"purpose_id" : 8180,
+		"primary_purpose" : "SERVICED APART"
+	},
+	{
+		"purpose_id" : 8185,
+		"primary_purpose" : "SERVICED APT"
+	},
+	{
+		"purpose_id" : 8189,
+		"primary_purpose" : "SERVICED UNIT"
+	},
+	{
+		"purpose_id" : 8205,
+		"primary_purpose" : "SERVICE STATI"
+	},
+	{
+		"purpose_id" : 8207,
+		"primary_purpose" : "SERVICE STATIO"
+	},
+	{
+		"purpose_id" : 8210,
+		"primary_purpose" : "SERVICESTATION"
+	},
+	{
+		"purpose_id" : 8212,
+		"primary_purpose" : "SERVICE STATIONS"
+	},
+	{
+		"purpose_id" : 8214,
+		"primary_purpose" : "SERVICE STN"
+	},
+	{
+		"purpose_id" : 8231,
+		"primary_purpose" : "SERV STATION"
+	},
+	{
+		"purpose_id" : 8234,
+		"primary_purpose" : "SERV STN"
+	},
+	{
+		"purpose_id" : 8257,
+		"primary_purpose" : "SHEARING SHED"
+	},
+	{
+		"purpose_id" : 8259,
+		"primary_purpose" : "SHED"
+	},
+	{
+		"purpose_id" : 8260,
+		"primary_purpose" : "SHED "
+	},
+	{
+		"purpose_id" : 8308,
+		"primary_purpose" : "SHEDDING"
+	},
+	{
+		"purpose_id" : 8340,
+		"primary_purpose" : "SHED & LAND"
+	},
+	{
+		"purpose_id" : 8353,
+		"primary_purpose" : "SHED & OFFICE"
+	},
+	{
+		"purpose_id" : 8357,
+		"primary_purpose" : "SHED\/OFFICE"
+	},
+	{
+		"purpose_id" : 8376,
+		"primary_purpose" : "SHEDS"
+	},
+	{
+		"purpose_id" : 8471,
+		"primary_purpose" : "SHOP"
+	},
+	{
+		"purpose_id" : 8472,
+		"primary_purpose" : "SHOP "
+	},
+	{
+		"purpose_id" : 8496,
+		"primary_purpose" : "SHOP AND FLAT"
+	},
+	{
+		"purpose_id" : 8504,
+		"primary_purpose" : "SHOP AND RESI"
+	},
+	{
+		"purpose_id" : 8520,
+		"primary_purpose" : "SHOP BUILDING"
+	},
+	{
+		"purpose_id" : 8530,
+		"primary_purpose" : "SHOP & CAR SP"
+	},
+	{
+		"purpose_id" : 8533,
+		"primary_purpose" : "SHOP & CARSPA"
+	},
+	{
+		"purpose_id" : 8539,
+		"primary_purpose" : "SHOP CENTRE"
+	},
+	{
+		"purpose_id" : 8570,
+		"primary_purpose" : "SHOP\/FACTORY"
+	},
+	{
+		"purpose_id" : 8575,
+		"primary_purpose" : "SHOP & FLAT"
+	},
+	{
+		"purpose_id" : 8581,
+		"primary_purpose" : "SHOP\/FLAT"
+	},
+	{
+		"purpose_id" : 8583,
+		"primary_purpose" : "SHOP & FLATS"
+	},
+	{
+		"purpose_id" : 8588,
+		"primary_purpose" : "SHOP\/FLATS"
+	},
+	{
+		"purpose_id" : 8596,
+		"primary_purpose" : "SHOP & GARAGE"
+	},
+	{
+		"purpose_id" : 8601,
+		"primary_purpose" : "SHOP & HOUSE"
+	},
+	{
+		"purpose_id" : 8603,
+		"primary_purpose" : "SHOP\/HOUSE"
+	},
+	{
+		"purpose_id" : 8631,
+		"primary_purpose" : "SHOP & OFFICE"
+	},
+	{
+		"purpose_id" : 8636,
+		"primary_purpose" : "SHOP\/OFFICE"
+	},
+	{
+		"purpose_id" : 8645,
+		"primary_purpose" : "SHOP\/OFFICES"
+	},
+	{
+		"purpose_id" : 8663,
+		"primary_purpose" : "SHOPPING CENT"
+	},
+	{
+		"purpose_id" : 8666,
+		"primary_purpose" : "SHOPPING CENTR"
+	},
+	{
+		"purpose_id" : 8669,
+		"primary_purpose" : "SHOPPINGCENTRE"
+	},
+	{
+		"purpose_id" : 8676,
+		"primary_purpose" : "SHOPPING CTR"
+	},
+	{
+		"purpose_id" : 8678,
+		"primary_purpose" : "SHOPPING CTRE"
+	},
+	{
+		"purpose_id" : 8680,
+		"primary_purpose" : "SHOPPING PLAZ"
+	},
+	{
+		"purpose_id" : 8688,
+		"primary_purpose" : "SHOP PREMISES"
+	},
+	{
+		"purpose_id" : 8696,
+		"primary_purpose" : "SHOP & RES"
+	},
+	{
+		"purpose_id" : 8700,
+		"primary_purpose" : "SHOP\/RES"
+	},
+	{
+		"purpose_id" : 8709,
+		"primary_purpose" : "SHOP & RESID"
+	},
+	{
+		"purpose_id" : 8711,
+		"primary_purpose" : "SHOP\/RESID"
+	},
+	{
+		"purpose_id" : 8715,
+		"primary_purpose" : "SHOP & RESIDE"
+	},
+	{
+		"purpose_id" : 8720,
+		"primary_purpose" : "SHOP & RESIDEN"
+	},
+	{
+		"purpose_id" : 8724,
+		"primary_purpose" : "SHOP RESIDENC"
+	},
+	{
+		"purpose_id" : 8725,
+		"primary_purpose" : "SHOP&RESIDENC"
+	},
+	{
+		"purpose_id" : 8727,
+		"primary_purpose" : "SHOP\/RESIDENC"
+	},
+	{
+		"purpose_id" : 8731,
+		"primary_purpose" : "SHOP&RESIDENCE"
+	},
+	{
+		"purpose_id" : 8735,
+		"primary_purpose" : "SHOP\/RESIDENCE"
+	},
+	{
+		"purpose_id" : 8737,
+		"primary_purpose" : "SHOP\/RESIDENT"
+	},
+	{
+		"purpose_id" : 8747,
+		"primary_purpose" : "SHOPS"
+	},
+	{
+		"purpose_id" : 8748,
+		"primary_purpose" : "SHOPS "
+	},
+	{
+		"purpose_id" : 8763,
+		"primary_purpose" : "SHOPS AND RES"
+	},
+	{
+		"purpose_id" : 8774,
+		"primary_purpose" : "SHOPS&DWELLIN"
+	},
+	{
+		"purpose_id" : 8781,
+		"primary_purpose" : "SHOPS & FLAT"
+	},
+	{
+		"purpose_id" : 8785,
+		"primary_purpose" : "SHOPS & FLATS"
+	},
+	{
+		"purpose_id" : 8789,
+		"primary_purpose" : "SHOPS\/FLATS"
+	},
+	{
+		"purpose_id" : 8799,
+		"primary_purpose" : "SHOPS INCL OTHERS"
+	},
+	{
+		"purpose_id" : 8804,
+		"primary_purpose" : "SHOPS & OFFIC"
+	},
+	{
+		"purpose_id" : 8810,
+		"primary_purpose" : "SHOPS&OFFICE"
+	},
+	{
+		"purpose_id" : 8818,
+		"primary_purpose" : "SHOPS\/OFFICES"
+	},
+	{
+		"purpose_id" : 8824,
+		"primary_purpose" : "SHOPS & RESID"
+	},
+	{
+		"purpose_id" : 8830,
+		"primary_purpose" : "SHOPS\/RESIDEN"
+	},
+	{
+		"purpose_id" : 8833,
+		"primary_purpose" : "SHOPS\/RETAIL"
+	},
+	{
+		"purpose_id" : 8852,
+		"primary_purpose" : "SHOPS\/UNITS"
+	},
+	{
+		"purpose_id" : 8862,
+		"primary_purpose" : "SHOP & UNIT"
+	},
+	{
+		"purpose_id" : 8863,
+		"primary_purpose" : "SHOP UNIT"
+	},
+	{
+		"purpose_id" : 8864,
+		"primary_purpose" : "SHOP\/UNIT"
+	},
+	{
+		"purpose_id" : 8901,
+		"primary_purpose" : "SHOWROOM"
+	},
+	{
+		"purpose_id" : 8917,
+		"primary_purpose" : "SHOWROOMS"
+	},
+	{
+		"purpose_id" : 8936,
+		"primary_purpose" : "SILO"
+	},
+	{
+		"purpose_id" : 8959,
+		"primary_purpose" : "SKI RESORT"
+	},
+	{
+		"purpose_id" : 8974,
+		"primary_purpose" : "SMALL FARM"
+	},
+	{
+		"purpose_id" : 8981,
+		"primary_purpose" : "SMALL RURAL"
+	},
+	{
+		"purpose_id" : 9041,
+		"primary_purpose" : "STABLES"
+	},
+	{
+		"purpose_id" : 9065,
+		"primary_purpose" : "STATION"
+	},
+	{
+		"purpose_id" : 9075,
+		"primary_purpose" : "STEEL SHED"
+	},
+	{
+		"purpose_id" : 9095,
+		"primary_purpose" : "STORAGE"
+	},
+	{
+		"purpose_id" : 9098,
+		"primary_purpose" : "STORAGE AREA"
+	},
+	{
+		"purpose_id" : 9099,
+		"primary_purpose" : "STORAGE AREAS"
+	},
+	{
+		"purpose_id" : 9100,
+		"primary_purpose" : "STORAGE BAY"
+	},
+	{
+		"purpose_id" : 9104,
+		"primary_purpose" : "STORAGE CAGE"
+	},
+	{
+		"purpose_id" : 9106,
+		"primary_purpose" : "STORAGE CAGES"
+	},
+	{
+		"purpose_id" : 9117,
+		"primary_purpose" : "STORAGE FACIL"
+	},
+	{
+		"purpose_id" : 9124,
+		"primary_purpose" : "STORAGE LOT"
+	},
+	{
+		"purpose_id" : 9126,
+		"primary_purpose" : "STORAGE LOTS"
+	},
+	{
+		"purpose_id" : 9133,
+		"primary_purpose" : "STORAGE ROOM"
+	},
+	{
+		"purpose_id" : 9137,
+		"primary_purpose" : "STORAGE SHED"
+	},
+	{
+		"purpose_id" : 9140,
+		"primary_purpose" : "STORAGE SHEDS"
+	},
+	{
+		"purpose_id" : 9144,
+		"primary_purpose" : "STORAGE SPACE"
+	},
+	{
+		"purpose_id" : 9147,
+		"primary_purpose" : "STORAGE SPACES"
+	},
+	{
+		"purpose_id" : 9154,
+		"primary_purpose" : "STORAGE UNIT"
+	},
+	{
+		"purpose_id" : 9155,
+		"primary_purpose" : "STORAGEUNIT"
+	},
+	{
+		"purpose_id" : 9157,
+		"primary_purpose" : "STORAGE UNITS"
+	},
+	{
+		"purpose_id" : 9165,
+		"primary_purpose" : "STORE"
+	},
+	{
+		"purpose_id" : 9177,
+		"primary_purpose" : "STORE ROOM"
+	},
+	{
+		"purpose_id" : 9178,
+		"primary_purpose" : "STOREROOM"
+	},
+	{
+		"purpose_id" : 9181,
+		"primary_purpose" : "STORE ROOMS"
+	},
+	{
+		"purpose_id" : 9182,
+		"primary_purpose" : "STOREROOMS"
+	},
+	{
+		"purpose_id" : 9200,
+		"primary_purpose" : "STRATA"
+	},
+	{
+		"purpose_id" : 9202,
+		"primary_purpose" : "STRATA BUILDI"
+	},
+	{
+		"purpose_id" : 9207,
+		"primary_purpose" : "STRATA COMMER"
+	},
+	{
+		"purpose_id" : 9216,
+		"primary_purpose" : "STRATA FACTOR"
+	},
+	{
+		"purpose_id" : 9224,
+		"primary_purpose" : "STRATA INDUST"
+	},
+	{
+		"purpose_id" : 9229,
+		"primary_purpose" : "STRATA LOT"
+	},
+	{
+		"purpose_id" : 9238,
+		"primary_purpose" : "STRATA OFFICE"
+	},
+	{
+		"purpose_id" : 9252,
+		"primary_purpose" : "STRATA SHOP"
+	},
+	{
+		"purpose_id" : 9256,
+		"primary_purpose" : "STRATA STORAGE"
+	},
+	{
+		"purpose_id" : 9262,
+		"primary_purpose" : "STRATA TITLE"
+	},
+	{
+		"purpose_id" : 9269,
+		"primary_purpose" : "STRATA UNIT"
+	},
+	{
+		"purpose_id" : 9270,
+		"primary_purpose" : "STRATA UNIT "
+	},
+	{
+		"purpose_id" : 9272,
+		"primary_purpose" : "STRATAUNIT"
+	},
+	{
+		"purpose_id" : 9277,
+		"primary_purpose" : "STRATA UNITS"
+	},
+	{
+		"purpose_id" : 9281,
+		"primary_purpose" : "STRATA VILLA"
+	},
+	{
+		"purpose_id" : 9309,
+		"primary_purpose" : "STUD FARM"
+	},
+	{
+		"purpose_id" : 9310,
+		"primary_purpose" : "STUDIO"
+	},
+	{
+		"purpose_id" : 9338,
+		"primary_purpose" : "SUBSTATION"
+	},
+	{
+		"purpose_id" : 9346,
+		"primary_purpose" : "SUITE"
+	},
+	{
+		"purpose_id" : 9353,
+		"primary_purpose" : "SUITES"
+	},
+	{
+		"purpose_id" : 9357,
+		"primary_purpose" : "SUPERMARKET"
+	},
+	{
+		"purpose_id" : 9359,
+		"primary_purpose" : "SUPERMARKET&P"
+	},
+	{
+		"purpose_id" : 9363,
+		"primary_purpose" : "SURGERY"
+	},
+	{
+		"purpose_id" : 9406,
+		"primary_purpose" : "TAVERN"
+	},
+	{
+		"purpose_id" : 9422,
+		"primary_purpose" : "TELECOM EXCHAN"
+	},
+	{
+		"purpose_id" : 9437,
+		"primary_purpose" : "TENANCY WAREH "
+	},
+	{
+		"purpose_id" : 9449,
+		"primary_purpose" : "TERRACE"
+	},
+	{
+		"purpose_id" : 9457,
+		"primary_purpose" : "THEATRE"
+	},
+	{
+		"purpose_id" : 9473,
+		"primary_purpose" : "TIMBER MILL"
+	},
+	{
+		"purpose_id" : 9500,
+		"primary_purpose" : "TOURIST ACCOM"
+	},
+	{
+		"purpose_id" : 9514,
+		"primary_purpose" : "TOURIST PARK"
+	},
+	{
+		"purpose_id" : 9532,
+		"primary_purpose" : "TOWN HOUSE"
+	},
+	{
+		"purpose_id" : 9533,
+		"primary_purpose" : "TOWN HOUSE "
+	},
+	{
+		"purpose_id" : 9536,
+		"primary_purpose" : "TOWNHOUSE"
+	},
+	{
+		"purpose_id" : 9537,
+		"primary_purpose" : "TOWNHOUSE "
+	},
+	{
+		"purpose_id" : 9547,
+		"primary_purpose" : "TOWNHOUSES"
+	},
+	{
+		"purpose_id" : 9593,
+		"primary_purpose" : "TRUCK STOP"
+	},
+	{
+		"purpose_id" : 9602,
+		"primary_purpose" : "TURF FARM"
+	},
+	{
+		"purpose_id" : 9651,
+		"primary_purpose" : "UNI CAMPUS"
+	},
+	{
+		"purpose_id" : 9663,
+		"primary_purpose" : "UNIT"
+	},
+	{
+		"purpose_id" : 9664,
+		"primary_purpose" : "UNIT "
+	},
+	{
+		"purpose_id" : 9680,
+		"primary_purpose" : "UNIT BLOCK"
+	},
+	{
+		"purpose_id" : 9688,
+		"primary_purpose" : "UNIT & CAR SP"
+	},
+	{
+		"purpose_id" : 9691,
+		"primary_purpose" : "UNIT\/CARSP"
+	},
+	{
+		"purpose_id" : 9693,
+		"primary_purpose" : "UNIT & CARSPA"
+	},
+	{
+		"purpose_id" : 9705,
+		"primary_purpose" : "UNIT\/CARSPACE"
+	},
+	{
+		"purpose_id" : 9718,
+		"primary_purpose" : "UNIT COMMERCIA"
+	},
+	{
+		"purpose_id" : 9721,
+		"primary_purpose" : "UNIT COMPLEX"
+	},
+	{
+		"purpose_id" : 9731,
+		"primary_purpose" : "UNIT & GARAGE"
+	},
+	{
+		"purpose_id" : 9733,
+		"primary_purpose" : "UNIT\/GARAGE"
+	},
+	{
+		"purpose_id" : 9760,
+		"primary_purpose" : "UNITS"
+	},
+	{
+		"purpose_id" : 9761,
+		"primary_purpose" : "UNITS "
+	},
+	{
+		"purpose_id" : 9767,
+		"primary_purpose" : "UNITS * 23"
+	},
+	{
+		"purpose_id" : 9774,
+		"primary_purpose" : "UNITS\/CAR PAR"
+	},
+	{
+		"purpose_id" : 9778,
+		"primary_purpose" : "UNITS\/FLATS"
+	},
+	{
+		"purpose_id" : 9785,
+		"primary_purpose" : "UNITS\/RES"
+	},
+	{
+		"purpose_id" : 9799,
+		"primary_purpose" : "UNITS X13"
+	},
+	{
+		"purpose_id" : 9849,
+		"primary_purpose" : "UTILITIES"
+	},
+	{
+		"purpose_id" : 9851,
+		"primary_purpose" : "UTILITY"
+	},
+	{
+		"purpose_id" : 9854,
+		"primary_purpose" : "UTILITY LOT"
+	},
+	{
+		"purpose_id" : 9855,
+		"primary_purpose" : "UTILITY LOTS"
+	},
+	{
+		"purpose_id" : 9869,
+		"primary_purpose" : "VACANT"
+	},
+	{
+		"purpose_id" : 9896,
+		"primary_purpose" : "VACANT - ACQUIRED FO"
+	},
+	{
+		"purpose_id" : 9906,
+		"primary_purpose" : "VACANT FARM"
+	},
+	{
+		"purpose_id" : 9910,
+		"primary_purpose" : "VACANT FARM L"
+	},
+	{
+		"purpose_id" : 9922,
+		"primary_purpose" : "VACANT LAND"
+	},
+	{
+		"purpose_id" : 9928,
+		"primary_purpose" : "VACANTLAND"
+	},
+	{
+		"purpose_id" : 10140,
+		"primary_purpose" : "VACANT LAND ACQUIRED"
+	},
+	{
+		"purpose_id" : 10165,
+		"primary_purpose" : "VACANT LAND - BOUNDA"
+	},
+	{
+		"purpose_id" : 10168,
+		"primary_purpose" : "VACANT LAND- BOUNDAR"
+	},
+	{
+		"purpose_id" : 10169,
+		"primary_purpose" : "VACANT LAND BOUNDARY"
+	},
+	{
+		"purpose_id" : 10215,
+		"primary_purpose" : "VACANT LAND - LOT 1 "
+	},
+	{
+		"purpose_id" : 10217,
+		"primary_purpose" : "VACANT LAND(LOT 1)"
+	},
+	{
+		"purpose_id" : 10282,
+		"primary_purpose" : "VACANT LAND(LOT 1 ON"
+	},
+	{
+		"purpose_id" : 10456,
+		"primary_purpose" : "VACANT LAND - NUMERO"
+	},
+	{
+		"purpose_id" : 10483,
+		"primary_purpose" : "VACANT LAND - PART L"
+	},
+	{
+		"purpose_id" : 10491,
+		"primary_purpose" : "VACANT LAND(PART LOT"
+	},
+	{
+		"purpose_id" : 10503,
+		"primary_purpose" : "VACANT LAND PART ONL"
+	},
+	{
+		"purpose_id" : 10504,
+		"primary_purpose" : "VACANT LAND(PART ONL"
+	},
+	{
+		"purpose_id" : 10509,
+		"primary_purpose" : "VACANT LAND (PART SA"
+	},
+	{
+		"purpose_id" : 10596,
+		"primary_purpose" : "VACANT LAND - PT LOT"
+	},
+	{
+		"purpose_id" : 10601,
+		"primary_purpose" : "VACANT LAND- PT LOT "
+	},
+	{
+		"purpose_id" : 10602,
+		"primary_purpose" : "VACANT LAND PT LOT 1"
+	},
+	{
+		"purpose_id" : 10603,
+		"primary_purpose" : "VACANT LAND(PT LOT 1"
+	},
+	{
+		"purpose_id" : 10604,
+		"primary_purpose" : "VACANT LAND-PT LOT 1"
+	},
+	{
+		"purpose_id" : 10606,
+		"primary_purpose" : "VACANT LAND(PT LOT 2"
+	},
+	{
+		"purpose_id" : 10619,
+		"primary_purpose" : "VACANT LAND(PT LOT O"
+	},
+	{
+		"purpose_id" : 10620,
+		"primary_purpose" : "VACANT LAND(PT LOTS "
+	},
+	{
+		"purpose_id" : 10627,
+		"primary_purpose" : "VACANT LAND(PT ONLY)"
+	},
+	{
+		"purpose_id" : 10637,
+		"primary_purpose" : "VACANT LAND- PURCHAS"
+	},
+	{
+		"purpose_id" : 10648,
+		"primary_purpose" : "VACANT LAND - ROAD"
+	},
+	{
+		"purpose_id" : 10735,
+		"primary_purpose" : "VACANT RURAL"
+	},
+	{
+		"purpose_id" : 10767,
+		"primary_purpose" : "VARIOUS"
+	},
+	{
+		"purpose_id" : 10787,
+		"primary_purpose" : "VET CLINIC"
+	},
+	{
+		"purpose_id" : 10799,
+		"primary_purpose" : "VET SURGERY"
+	},
+	{
+		"purpose_id" : 10803,
+		"primary_purpose" : "VILLA"
+	},
+	{
+		"purpose_id" : 10804,
+		"primary_purpose" : "VILLA "
+	},
+	{
+		"purpose_id" : 10812,
+		"primary_purpose" : "VILLAGE"
+	},
+	{
+		"purpose_id" : 10818,
+		"primary_purpose" : "VILLAS"
+	},
+	{
+		"purpose_id" : 10822,
+		"primary_purpose" : "VILLA UNIT"
+	},
+	{
+		"purpose_id" : 10828,
+		"primary_purpose" : "VINEYARD"
+	},
+	{
+		"purpose_id" : 10906,
+		"primary_purpose" : "WARE HOUSE"
+	},
+	{
+		"purpose_id" : 10909,
+		"primary_purpose" : "WAREHOUSE"
+	},
+	{
+		"purpose_id" : 10910,
+		"primary_purpose" : "WAREHOUSE "
+	},
+	{
+		"purpose_id" : 10934,
+		"primary_purpose" : "WAREHOUSEINC OTHERS"
+	},
+	{
+		"purpose_id" : 10938,
+		"primary_purpose" : "WAREHOUSE & O"
+	},
+	{
+		"purpose_id" : 10945,
+		"primary_purpose" : "WAREHOUSE\/OFF"
+	},
+	{
+		"purpose_id" : 10958,
+		"primary_purpose" : "WAREHOUSES"
+	},
+	{
+		"purpose_id" : 10971,
+		"primary_purpose" : "WAREHOUSE UNI"
+	},
+	{
+		"purpose_id" : 10973,
+		"primary_purpose" : "WAREHOUSE UNIT"
+	},
+	{
+		"purpose_id" : 10980,
+		"primary_purpose" : "WAREHSE"
+	},
+	{
+		"purpose_id" : 11019,
+		"primary_purpose" : "WEEKENDER"
+	},
+	{
+		"purpose_id" : 11031,
+		"primary_purpose" : "WHAREHOUSE"
+	},
+	{
+		"purpose_id" : 11037,
+		"primary_purpose" : "WHOLE PROPERTY TRANS"
+	},
+	{
+		"purpose_id" : 11055,
+		"primary_purpose" : "WINERY"
+	},
+	{
+		"purpose_id" : 11079,
+		"primary_purpose" : "WOOL STORE"
+	},
+	{
+		"purpose_id" : 11094,
+		"primary_purpose" : "WORK SHOP"
+	},
+	{
+		"purpose_id" : 11095,
+		"primary_purpose" : "WORKSHOP"
+	},
+	{
+		"purpose_id" : 11120,
+		"primary_purpose" : "WORKSHOP\/OFFI"
+	},
+	{
+		"purpose_id" : 11128,
+		"primary_purpose" : "WORKSHOPS"
+	},
+	{
+		"purpose_id" : 11149,
+		"primary_purpose" : "X"
+	}
+]}

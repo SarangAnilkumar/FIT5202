@@ -1,0 +1,287 @@
+{
+"zoning_id, zoning\n": [
+	{
+		"zoning_id" : 1,
+		"zoning" : ""
+	},
+	{
+		"zoning_id" : 2,
+		"zoning" : "A"
+	},
+	{
+		"zoning_id" : 3,
+		"zoning" : "AGB"
+	},
+	{
+		"zoning_id" : 4,
+		"zoning" : "B"
+	},
+	{
+		"zoning_id" : 5,
+		"zoning" : "B1"
+	},
+	{
+		"zoning_id" : 6,
+		"zoning" : "B2"
+	},
+	{
+		"zoning_id" : 7,
+		"zoning" : "B3"
+	},
+	{
+		"zoning_id" : 8,
+		"zoning" : "B4"
+	},
+	{
+		"zoning_id" : 9,
+		"zoning" : "B5"
+	},
+	{
+		"zoning_id" : 10,
+		"zoning" : "B6"
+	},
+	{
+		"zoning_id" : 11,
+		"zoning" : "B7"
+	},
+	{
+		"zoning_id" : 12,
+		"zoning" : "B8"
+	},
+	{
+		"zoning_id" : 13,
+		"zoning" : "C"
+	},
+	{
+		"zoning_id" : 14,
+		"zoning" : "C1"
+	},
+	{
+		"zoning_id" : 15,
+		"zoning" : "C2"
+	},
+	{
+		"zoning_id" : 16,
+		"zoning" : "C3"
+	},
+	{
+		"zoning_id" : 17,
+		"zoning" : "C4"
+	},
+	{
+		"zoning_id" : 18,
+		"zoning" : "D"
+	},
+	{
+		"zoning_id" : 19,
+		"zoning" : "E"
+	},
+	{
+		"zoning_id" : 20,
+		"zoning" : "E1"
+	},
+	{
+		"zoning_id" : 21,
+		"zoning" : "E2"
+	},
+	{
+		"zoning_id" : 22,
+		"zoning" : "E3"
+	},
+	{
+		"zoning_id" : 23,
+		"zoning" : "E4"
+	},
+	{
+		"zoning_id" : 24,
+		"zoning" : "E5"
+	},
+	{
+		"zoning_id" : 25,
+		"zoning" : "EM"
+	},
+	{
+		"zoning_id" : 26,
+		"zoning" : "ENT"
+	},
+	{
+		"zoning_id" : 27,
+		"zoning" : "ENZ"
+	},
+	{
+		"zoning_id" : 28,
+		"zoning" : "I"
+	},
+	{
+		"zoning_id" : 29,
+		"zoning" : "IN1"
+	},
+	{
+		"zoning_id" : 30,
+		"zoning" : "IN2"
+	},
+	{
+		"zoning_id" : 31,
+		"zoning" : "IN3"
+	},
+	{
+		"zoning_id" : 32,
+		"zoning" : "IN4"
+	},
+	{
+		"zoning_id" : 33,
+		"zoning" : "M"
+	},
+	{
+		"zoning_id" : 34,
+		"zoning" : "MU"
+	},
+	{
+		"zoning_id" : 35,
+		"zoning" : "MU1"
+	},
+	{
+		"zoning_id" : 36,
+		"zoning" : "N"
+	},
+	{
+		"zoning_id" : 37,
+		"zoning" : "O"
+	},
+	{
+		"zoning_id" : 38,
+		"zoning" : "P"
+	},
+	{
+		"zoning_id" : 39,
+		"zoning" : "R"
+	},
+	{
+		"zoning_id" : 40,
+		"zoning" : "R1"
+	},
+	{
+		"zoning_id" : 41,
+		"zoning" : "R2"
+	},
+	{
+		"zoning_id" : 42,
+		"zoning" : "R3"
+	},
+	{
+		"zoning_id" : 43,
+		"zoning" : "R4"
+	},
+	{
+		"zoning_id" : 44,
+		"zoning" : "R5"
+	},
+	{
+		"zoning_id" : 45,
+		"zoning" : "RE1"
+	},
+	{
+		"zoning_id" : 46,
+		"zoning" : "RE2"
+	},
+	{
+		"zoning_id" : 47,
+		"zoning" : "REZ"
+	},
+	{
+		"zoning_id" : 48,
+		"zoning" : "RU1"
+	},
+	{
+		"zoning_id" : 49,
+		"zoning" : "RU2"
+	},
+	{
+		"zoning_id" : 50,
+		"zoning" : "RU3"
+	},
+	{
+		"zoning_id" : 51,
+		"zoning" : "RU4"
+	},
+	{
+		"zoning_id" : 52,
+		"zoning" : "RU5"
+	},
+	{
+		"zoning_id" : 53,
+		"zoning" : "RU6"
+	},
+	{
+		"zoning_id" : 54,
+		"zoning" : "S"
+	},
+	{
+		"zoning_id" : 55,
+		"zoning" : "SP1"
+	},
+	{
+		"zoning_id" : 56,
+		"zoning" : "SP2"
+	},
+	{
+		"zoning_id" : 57,
+		"zoning" : "SP3"
+	},
+	{
+		"zoning_id" : 58,
+		"zoning" : "SP4"
+	},
+	{
+		"zoning_id" : 59,
+		"zoning" : "SP5"
+	},
+	{
+		"zoning_id" : 60,
+		"zoning" : "T"
+	},
+	{
+		"zoning_id" : 61,
+		"zoning" : "U"
+	},
+	{
+		"zoning_id" : 62,
+		"zoning" : "UD"
+	},
+	{
+		"zoning_id" : 63,
+		"zoning" : "UR"
+	},
+	{
+		"zoning_id" : 64,
+		"zoning" : "V"
+	},
+	{
+		"zoning_id" : 65,
+		"zoning" : "W"
+	},
+	{
+		"zoning_id" : 66,
+		"zoning" : "W1"
+	},
+	{
+		"zoning_id" : 67,
+		"zoning" : "W2"
+	},
+	{
+		"zoning_id" : 68,
+		"zoning" : "W4"
+	},
+	{
+		"zoning_id" : 69,
+		"zoning" : "X"
+	},
+	{
+		"zoning_id" : 70,
+		"zoning" : "Y"
+	},
+	{
+		"zoning_id" : 71,
+		"zoning" : "Z"
+	}
+]}

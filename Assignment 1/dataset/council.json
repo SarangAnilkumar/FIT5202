@@ -1,0 +1,883 @@
+{
+"council_id,council_name\n": [
+	{
+		"council_id" : 1,
+		"council_name" : "003"
+	},
+	{
+		"council_id" : 2,
+		"council_name" : "011"
+	},
+	{
+		"council_id" : 3,
+		"council_name" : "013"
+	},
+	{
+		"council_id" : 4,
+		"council_name" : "014"
+	},
+	{
+		"council_id" : 5,
+		"council_name" : "020"
+	},
+	{
+		"council_id" : 6,
+		"council_name" : "021"
+	},
+	{
+		"council_id" : 7,
+		"council_name" : "022"
+	},
+	{
+		"council_id" : 8,
+		"council_name" : "024"
+	},
+	{
+		"council_id" : 9,
+		"council_name" : "026"
+	},
+	{
+		"council_id" : 10,
+		"council_name" : "028"
+	},
+	{
+		"council_id" : 11,
+		"council_name" : "029"
+	},
+	{
+		"council_id" : 12,
+		"council_name" : "031"
+	},
+	{
+		"council_id" : 13,
+		"council_name" : "034"
+	},
+	{
+		"council_id" : 14,
+		"council_name" : "035"
+	},
+	{
+		"council_id" : 15,
+		"council_name" : "037"
+	},
+	{
+		"council_id" : 16,
+		"council_name" : "039"
+	},
+	{
+		"council_id" : 17,
+		"council_name" : "040"
+	},
+	{
+		"council_id" : 18,
+		"council_name" : "044"
+	},
+	{
+		"council_id" : 19,
+		"council_name" : "053"
+	},
+	{
+		"council_id" : 20,
+		"council_name" : "055"
+	},
+	{
+		"council_id" : 21,
+		"council_name" : "056"
+	},
+	{
+		"council_id" : 22,
+		"council_name" : "057"
+	},
+	{
+		"council_id" : 23,
+		"council_name" : "058"
+	},
+	{
+		"council_id" : 24,
+		"council_name" : "059"
+	},
+	{
+		"council_id" : 25,
+		"council_name" : "060"
+	},
+	{
+		"council_id" : 26,
+		"council_name" : "062"
+	},
+	{
+		"council_id" : 27,
+		"council_name" : "068"
+	},
+	{
+		"council_id" : 28,
+		"council_name" : "069"
+	},
+	{
+		"council_id" : 29,
+		"council_name" : "071"
+	},
+	{
+		"council_id" : 30,
+		"council_name" : "072"
+	},
+	{
+		"council_id" : 31,
+		"council_name" : "073"
+	},
+	{
+		"council_id" : 32,
+		"council_name" : "076"
+	},
+	{
+		"council_id" : 33,
+		"council_name" : "077"
+	},
+	{
+		"council_id" : 34,
+		"council_name" : "086"
+	},
+	{
+		"council_id" : 35,
+		"council_name" : "089"
+	},
+	{
+		"council_id" : 36,
+		"council_name" : "091"
+	},
+	{
+		"council_id" : 37,
+		"council_name" : "093"
+	},
+	{
+		"council_id" : 38,
+		"council_name" : "108"
+	},
+	{
+		"council_id" : 39,
+		"council_name" : "112"
+	},
+	{
+		"council_id" : 40,
+		"council_name" : "114"
+	},
+	{
+		"council_id" : 41,
+		"council_name" : "120"
+	},
+	{
+		"council_id" : 42,
+		"council_name" : "127"
+	},
+	{
+		"council_id" : 43,
+		"council_name" : "129"
+	},
+	{
+		"council_id" : 44,
+		"council_name" : "130"
+	},
+	{
+		"council_id" : 45,
+		"council_name" : "134"
+	},
+	{
+		"council_id" : 46,
+		"council_name" : "135"
+	},
+	{
+		"council_id" : 47,
+		"council_name" : "136"
+	},
+	{
+		"council_id" : 48,
+		"council_name" : "138"
+	},
+	{
+		"council_id" : 49,
+		"council_name" : "140"
+	},
+	{
+		"council_id" : 50,
+		"council_name" : "141"
+	},
+	{
+		"council_id" : 51,
+		"council_name" : "142"
+	},
+	{
+		"council_id" : 52,
+		"council_name" : "153"
+	},
+	{
+		"council_id" : 53,
+		"council_name" : "154"
+	},
+	{
+		"council_id" : 54,
+		"council_name" : "160"
+	},
+	{
+		"council_id" : 55,
+		"council_name" : "162"
+	},
+	{
+		"council_id" : 56,
+		"council_name" : "165"
+	},
+	{
+		"council_id" : 57,
+		"council_name" : "172"
+	},
+	{
+		"council_id" : 58,
+		"council_name" : "180"
+	},
+	{
+		"council_id" : 59,
+		"council_name" : "181"
+	},
+	{
+		"council_id" : 60,
+		"council_name" : "185"
+	},
+	{
+		"council_id" : 61,
+		"council_name" : "186"
+	},
+	{
+		"council_id" : 62,
+		"council_name" : "191"
+	},
+	{
+		"council_id" : 63,
+		"council_name" : "194"
+	},
+	{
+		"council_id" : 64,
+		"council_name" : "195"
+	},
+	{
+		"council_id" : 65,
+		"council_name" : "197"
+	},
+	{
+		"council_id" : 66,
+		"council_name" : "203"
+	},
+	{
+		"council_id" : 67,
+		"council_name" : "204"
+	},
+	{
+		"council_id" : 68,
+		"council_name" : "205"
+	},
+	{
+		"council_id" : 69,
+		"council_name" : "206"
+	},
+	{
+		"council_id" : 70,
+		"council_name" : "208"
+	},
+	{
+		"council_id" : 71,
+		"council_name" : "211"
+	},
+	{
+		"council_id" : 72,
+		"council_name" : "221"
+	},
+	{
+		"council_id" : 73,
+		"council_name" : "237"
+	},
+	{
+		"council_id" : 74,
+		"council_name" : "241"
+	},
+	{
+		"council_id" : 75,
+		"council_name" : "242"
+	},
+	{
+		"council_id" : 76,
+		"council_name" : "245"
+	},
+	{
+		"council_id" : 77,
+		"council_name" : "246"
+	},
+	{
+		"council_id" : 78,
+		"council_name" : "248"
+	},
+	{
+		"council_id" : 79,
+		"council_name" : "249"
+	},
+	{
+		"council_id" : 80,
+		"council_name" : "256"
+	},
+	{
+		"council_id" : 81,
+		"council_name" : "539"
+	},
+	{
+		"council_id" : 82,
+		"council_name" : "540"
+	},
+	{
+		"council_id" : 83,
+		"council_name" : "623"
+	},
+	{
+		"council_id" : 84,
+		"council_name" : "672"
+	},
+	{
+		"council_id" : 85,
+		"council_name" : "678"
+	},
+	{
+		"council_id" : 86,
+		"council_name" : "695"
+	},
+	{
+		"council_id" : 87,
+		"council_name" : "698"
+	},
+	{
+		"council_id" : 88,
+		"council_name" : "722"
+	},
+	{
+		"council_id" : 89,
+		"council_name" : "905"
+	},
+	{
+		"council_id" : 90,
+		"council_name" : "911"
+	},
+	{
+		"council_id" : 91,
+		"council_name" : "ALBURY"
+	},
+	{
+		"council_id" : 92,
+		"council_name" : "ARMIDALE REGIONAL"
+	},
+	{
+		"council_id" : 93,
+		"council_name" : "BALLINA"
+	},
+	{
+		"council_id" : 94,
+		"council_name" : "BALRANALD"
+	},
+	{
+		"council_id" : 95,
+		"council_name" : "BATHURST REGIONAL"
+	},
+	{
+		"council_id" : 96,
+		"council_name" : "BAYSIDE"
+	},
+	{
+		"council_id" : 97,
+		"council_name" : "BEGA VALLEY"
+	},
+	{
+		"council_id" : 98,
+		"council_name" : "BELLINGEN"
+	},
+	{
+		"council_id" : 99,
+		"council_name" : "BERRIGAN"
+	},
+	{
+		"council_id" : 100,
+		"council_name" : "BLACKTOWN"
+	},
+	{
+		"council_id" : 101,
+		"council_name" : "BLAND"
+	},
+	{
+		"council_id" : 102,
+		"council_name" : "BLAYNEY"
+	},
+	{
+		"council_id" : 103,
+		"council_name" : "BLUE MOUNTAINS"
+	},
+	{
+		"council_id" : 104,
+		"council_name" : "BOGAN"
+	},
+	{
+		"council_id" : 105,
+		"council_name" : "BOURKE"
+	},
+	{
+		"council_id" : 106,
+		"council_name" : "BREWARRINA"
+	},
+	{
+		"council_id" : 107,
+		"council_name" : "BROKEN HILL"
+	},
+	{
+		"council_id" : 108,
+		"council_name" : "BURWOOD"
+	},
+	{
+		"council_id" : 109,
+		"council_name" : "BYRON"
+	},
+	{
+		"council_id" : 110,
+		"council_name" : "CABONNE"
+	},
+	{
+		"council_id" : 111,
+		"council_name" : "CAMDEN"
+	},
+	{
+		"council_id" : 112,
+		"council_name" : "CAMPBELLTOWN"
+	},
+	{
+		"council_id" : 113,
+		"council_name" : "CANADA BAY"
+	},
+	{
+		"council_id" : 114,
+		"council_name" : "CANTERBURY-BANKSTOWN"
+	},
+	{
+		"council_id" : 115,
+		"council_name" : "CARRATHOOL"
+	},
+	{
+		"council_id" : 116,
+		"council_name" : "CENTRAL COAST"
+	},
+	{
+		"council_id" : 117,
+		"council_name" : "CENTRAL DARLING"
+	},
+	{
+		"council_id" : 118,
+		"council_name" : "CESSNOCK"
+	},
+	{
+		"council_id" : 119,
+		"council_name" : "CITY OF PARRAMATTA"
+	},
+	{
+		"council_id" : 120,
+		"council_name" : "CITY OF SYDNEY"
+	},
+	{
+		"council_id" : 121,
+		"council_name" : "CLARENCE VALLEY"
+	},
+	{
+		"council_id" : 122,
+		"council_name" : "COBAR"
+	},
+	{
+		"council_id" : 123,
+		"council_name" : "COFFS HARBOUR"
+	},
+	{
+		"council_id" : 124,
+		"council_name" : "COOLAMON"
+	},
+	{
+		"council_id" : 125,
+		"council_name" : "COONAMBLE"
+	},
+	{
+		"council_id" : 126,
+		"council_name" : "COOTAMUNDRA-GUNDAGAI REGIONAL"
+	},
+	{
+		"council_id" : 127,
+		"council_name" : "COWRA"
+	},
+	{
+		"council_id" : 128,
+		"council_name" : "CUMBERLAND"
+	},
+	{
+		"council_id" : 129,
+		"council_name" : "DUBBO REGIONAL"
+	},
+	{
+		"council_id" : 130,
+		"council_name" : "DUNGOG"
+	},
+	{
+		"council_id" : 131,
+		"council_name" : "EDWARD RIVER"
+	},
+	{
+		"council_id" : 132,
+		"council_name" : "EUROBODALLA"
+	},
+	{
+		"council_id" : 133,
+		"council_name" : "FAIRFIELD"
+	},
+	{
+		"council_id" : 134,
+		"council_name" : "FEDERATION"
+	},
+	{
+		"council_id" : 135,
+		"council_name" : "FORBES"
+	},
+	{
+		"council_id" : 136,
+		"council_name" : "GEORGES RIVER"
+	},
+	{
+		"council_id" : 137,
+		"council_name" : "GILGANDRA"
+	},
+	{
+		"council_id" : 138,
+		"council_name" : "GLEN INNES SEVERN"
+	},
+	{
+		"council_id" : 139,
+		"council_name" : "GOULBURN MULWAREE"
+	},
+	{
+		"council_id" : 140,
+		"council_name" : "GREATER HUME"
+	},
+	{
+		"council_id" : 141,
+		"council_name" : "GRIFFITH"
+	},
+	{
+		"council_id" : 142,
+		"council_name" : "GUNNEDAH"
+	},
+	{
+		"council_id" : 143,
+		"council_name" : "GWYDIR"
+	},
+	{
+		"council_id" : 144,
+		"council_name" : "HAWKESBURY"
+	},
+	{
+		"council_id" : 145,
+		"council_name" : "HAY"
+	},
+	{
+		"council_id" : 146,
+		"council_name" : "HILLTOPS"
+	},
+	{
+		"council_id" : 147,
+		"council_name" : "HORNSBY"
+	},
+	{
+		"council_id" : 148,
+		"council_name" : "HUNTERS HILL"
+	},
+	{
+		"council_id" : 149,
+		"council_name" : "INNER WEST"
+	},
+	{
+		"council_id" : 150,
+		"council_name" : "INVERELL"
+	},
+	{
+		"council_id" : 151,
+		"council_name" : "JUNEE"
+	},
+	{
+		"council_id" : 152,
+		"council_name" : "KEMPSEY"
+	},
+	{
+		"council_id" : 153,
+		"council_name" : "KIAMA"
+	},
+	{
+		"council_id" : 154,
+		"council_name" : "KU-RING-GAI"
+	},
+	{
+		"council_id" : 155,
+		"council_name" : "KYOGLE"
+	},
+	{
+		"council_id" : 156,
+		"council_name" : "LACHLAN"
+	},
+	{
+		"council_id" : 157,
+		"council_name" : "LAKE MACQUARIE"
+	},
+	{
+		"council_id" : 158,
+		"council_name" : "LANE COVE"
+	},
+	{
+		"council_id" : 159,
+		"council_name" : "LEETON"
+	},
+	{
+		"council_id" : 160,
+		"council_name" : "LISMORE"
+	},
+	{
+		"council_id" : 161,
+		"council_name" : "LITHGOW"
+	},
+	{
+		"council_id" : 162,
+		"council_name" : "LIVERPOOL"
+	},
+	{
+		"council_id" : 163,
+		"council_name" : "LIVERPOOL PLAINS"
+	},
+	{
+		"council_id" : 164,
+		"council_name" : "LOCKHART"
+	},
+	{
+		"council_id" : 165,
+		"council_name" : "MAITLAND"
+	},
+	{
+		"council_id" : 166,
+		"council_name" : "MID-COAST"
+	},
+	{
+		"council_id" : 167,
+		"council_name" : "MID WESTERN REGIONAL"
+	},
+	{
+		"council_id" : 168,
+		"council_name" : "MOREE PLAINS"
+	},
+	{
+		"council_id" : 169,
+		"council_name" : "MOSMAN"
+	},
+	{
+		"council_id" : 170,
+		"council_name" : "MURRAY RIVER"
+	},
+	{
+		"council_id" : 171,
+		"council_name" : "MURRUMBIDGEE"
+	},
+	{
+		"council_id" : 172,
+		"council_name" : "MUSWELLBROOK"
+	},
+	{
+		"council_id" : 173,
+		"council_name" : "NAMBUCCA"
+	},
+	{
+		"council_id" : 174,
+		"council_name" : "NARRABRI"
+	},
+	{
+		"council_id" : 175,
+		"council_name" : "NARRANDERA"
+	},
+	{
+		"council_id" : 176,
+		"council_name" : "NARROMINE"
+	},
+	{
+		"council_id" : 177,
+		"council_name" : "NEWCASTLE"
+	},
+	{
+		"council_id" : 178,
+		"council_name" : "NORTHERN BEACHES"
+	},
+	{
+		"council_id" : 179,
+		"council_name" : "NORTH SYDNEY"
+	},
+	{
+		"council_id" : 180,
+		"council_name" : "OBERON"
+	},
+	{
+		"council_id" : 181,
+		"council_name" : "ORANGE"
+	},
+	{
+		"council_id" : 182,
+		"council_name" : "PARKES"
+	},
+	{
+		"council_id" : 183,
+		"council_name" : "PENRITH"
+	},
+	{
+		"council_id" : 184,
+		"council_name" : "PORT MACQUARIE-HASTINGS"
+	},
+	{
+		"council_id" : 185,
+		"council_name" : "PORT STEPHENS"
+	},
+	{
+		"council_id" : 186,
+		"council_name" : "QUEANBEYAN-PALERANG REGIONAL"
+	},
+	{
+		"council_id" : 187,
+		"council_name" : "RANDWICK"
+	},
+	{
+		"council_id" : 188,
+		"council_name" : "RICHMOND VALLEY"
+	},
+	{
+		"council_id" : 189,
+		"council_name" : "RYDE"
+	},
+	{
+		"council_id" : 190,
+		"council_name" : "SHELLHARBOUR"
+	},
+	{
+		"council_id" : 191,
+		"council_name" : "SHOALHAVEN"
+	},
+	{
+		"council_id" : 192,
+		"council_name" : "SINGLETON"
+	},
+	{
+		"council_id" : 193,
+		"council_name" : "SNOWY MONARO REGIONAL"
+	},
+	{
+		"council_id" : 194,
+		"council_name" : "SNOWY VALLEYS"
+	},
+	{
+		"council_id" : 195,
+		"council_name" : "STRATHFIELD"
+	},
+	{
+		"council_id" : 196,
+		"council_name" : "SUTHERLAND"
+	},
+	{
+		"council_id" : 197,
+		"council_name" : "TAMWORTH REGIONAL"
+	},
+	{
+		"council_id" : 198,
+		"council_name" : "TEMORA"
+	},
+	{
+		"council_id" : 199,
+		"council_name" : "TENTERFIELD"
+	},
+	{
+		"council_id" : 200,
+		"council_name" : "THE HILLS SHIRE"
+	},
+	{
+		"council_id" : 201,
+		"council_name" : "TWEED"
+	},
+	{
+		"council_id" : 202,
+		"council_name" : "UNINCORPORATED AREA"
+	},
+	{
+		"council_id" : 203,
+		"council_name" : "UNINCORPORATED SYDNEY HARBOUR"
+	},
+	{
+		"council_id" : 204,
+		"council_name" : "UPPER HUNTER"
+	},
+	{
+		"council_id" : 205,
+		"council_name" : "UPPER LACHLAN"
+	},
+	{
+		"council_id" : 206,
+		"council_name" : "URALLA"
+	},
+	{
+		"council_id" : 207,
+		"council_name" : "WAGGA WAGGA"
+	},
+	{
+		"council_id" : 208,
+		"council_name" : "WALCHA"
+	},
+	{
+		"council_id" : 209,
+		"council_name" : "WALGETT"
+	},
+	{
+		"council_id" : 210,
+		"council_name" : "WARREN"
+	},
+	{
+		"council_id" : 211,
+		"council_name" : "WARRUMBUNGLE"
+	},
+	{
+		"council_id" : 212,
+		"council_name" : "WAVERLEY"
+	},
+	{
+		"council_id" : 213,
+		"council_name" : "WEDDIN"
+	},
+	{
+		"council_id" : 214,
+		"council_name" : "WENTWORTH"
+	},
+	{
+		"council_id" : 215,
+		"council_name" : "WILLOUGHBY"
+	},
+	{
+		"council_id" : 216,
+		"council_name" : "WINGECARRIBEE"
+	},
+	{
+		"council_id" : 217,
+		"council_name" : "WOLLONDILLY"
+	},
+	{
+		"council_id" : 218,
+		"council_name" : "WOLLONGONG"
+	},
+	{
+		"council_id" : 219,
+		"council_name" : "WOOLLAHRA"
+	},
+	{
+		"council_id" : 220,
+		"council_name" : "YASS VALLEY"
+	}
+]}

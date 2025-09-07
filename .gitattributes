@@ -1,0 +1,2 @@
+Assignment[[:space:]]1/dataset/*.csv filter=lfs diff=lfs merge=lfs -text
+Assignment[[:space:]]2[[:space:]]Part[[:space:]]A/dataset/meters.csv filter=lfs diff=lfs merge=lfs -text
